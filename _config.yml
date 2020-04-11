@@ -1,0 +1,12 @@
+name: Finca Cermeno
+title: Finca Cermeno
+description: Finca Cermeno
+url: https://fincacermeno.com
+logo: "ico"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: pretty
