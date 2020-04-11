@@ -11,7 +11,7 @@
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
         <link id="favicon" rel="shortcut icon" href="{{'img/ico' | relative_url }}">
-        <link href="{{'css/style.css' | relative_url }}" rel="stylesheet">
+        <link href="/assets/css/styles.css" rel="stylesheet">
 
         <script src="https://kit.fontawesome.com/11bff94181.js"></script>
         
@@ -22,7 +22,7 @@
     <body>
         <header class="masthead mb-auto mx-auto py-3 px-5">
             <div class="inner">
-                <a href="/"><h3 class="masthead-brand">Jesse Silverberg</h3></a>
+                <a href="/"><h3 class="masthead-brand">Finca Cermeno</h3></a>
                 <nav class="nav nav-masthead justify-content-center">
                     {% for item in site.data.navigation %}
                         <a href="{{ item.link }}" class="nav-link {% if page.url == item.link %}active{% endif %}">
