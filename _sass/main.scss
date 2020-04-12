@@ -1,17 +1,10 @@
-:root {
-    --primary-color: white;
-    --primary-text: black;
-    --secondary-color: #6c757d;
-    --secondary-text: white;
-}
-
 /* GLOBAL STYLES
 -------------------------------------------------- */
 /* Padding below the footer and lighter body text */
 
 body {
   padding-bottom: 3rem;
-  color: #5a5a5a;
+  // color: #5a5a5a;
 }
 
 /*
@@ -112,14 +105,14 @@ body {
 }
 
 .projects .btn {
-    background-color: var(--secondary-color);
-    border-color: var(--secondary-color);
-    color: var(--secondary-text);
+    background-color: #6c757d;
+    border-color: #6c757d;
+    color: white;
     margin: 0 .5rem;
 }
 .projects .btn:hover {
-    background-color: var(--secondary-color);
-    border-color: var(--secondary-color);
+    background-color: #6c757d;
+    border-color: #6c757d;
 }
 
 .projects-img {
