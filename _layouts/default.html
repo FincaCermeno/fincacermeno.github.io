@@ -1,8 +1,21 @@
 <!doctype html>
-<html lang="en">  
+<html lang="{{ site.lang | default: "en-US" }}">  
     <head>
-        <meta charset="utf-8">
+        {% if site.google_analytics %}
+          <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+          <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', '{{ site.google_analytics }}');
+          </script>
+        {% endif %}
+        <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="theme-color" content="#157878">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        
+        
         <title> {% if page.title != "Home" %}{{ page.title }} | {% endif %} {{ site.title }}</title>
 
         {% feed_meta %}
@@ -20,7 +33,9 @@
   </head>
     
     <body>
-        <header class="masthead mb-auto mx-auto py-3 px-5">
+<!--        <a id="skip-to-content" href="#content">Skip to the content.</a>-->
+
+        <header role="banner" class="page-header masthead">
             <div class="inner">
                 <a href="/"><h3 class="masthead-brand">Finca Cermeno</h3></a>
                 <nav class="nav nav-masthead justify-content-center">
@@ -29,18 +44,18 @@
                             {{ item.name }}
                         </a>
                     {% endfor %}
-                    <a href="https://github.com/jessesilverberg" target="_blank"><i class="fab fa-lg fa-github"></i></a>
-                    <a href="mailto:jessesilverberg11@gmail.com"><i class="fas fa-lg fa-envelope"></i></a>
+                    <a href="tel:+507-6345-1910"><i class="fas fa-lg fa-phone"></i></a>
+                    <a href="mailto:fincacermeno@gmail.com"><i class="fas fa-lg fa-envelope"></i></a>
                 </nav>
             </div>
         </header>
 
-        <main role="main">
+        <main id="content" class="main-content" role="main">
             {{content}}
         </main>
         
         <!-- FOOTER -->
-        <footer class="container">
+        <footer class="container site-footer">
             <p class="float-right"><a href="#">Back to top</a></p>
             <p><i class="far fa-copyright"></i> <script>document.write(new Date().getFullYear())</script> Jesse Silverberg </p>
         </footer>
@@ -50,3 +65,4 @@
         
     </body>
 </html>
+

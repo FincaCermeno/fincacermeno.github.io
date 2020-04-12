@@ -21,12 +21,11 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
-  background: var(--primary-color);
 }
 
 .masthead-brand {
   margin-bottom: 0;
-  color: var(--primary-text);
+  color: white;
 }
 
 .nav-masthead a {
@@ -35,19 +34,19 @@ body {
 
 .nav-masthead .nav-link {
   font-weight: 700;
-  color: var(--primary-text);
+  color: white;
   opacity: 0.5;
   background-color: transparent;
   border-bottom: .25rem solid transparent;
 }
 
 .nav-masthead i {
-  color: var(--primary-text);
+  color: white;
 }
 
 .nav-masthead .nav-link:hover,
 .nav-masthead .nav-link:focus {
-  border-bottom-color: var(--primary-text);
+  border-bottom-color: white;
 }
 
 .nav-masthead a + a {
@@ -56,7 +55,7 @@ body {
 
 .nav-masthead .active {
   opacity: 1;
-  border-bottom-color: var(--primary-text);
+  border-bottom-color: white;
 }
 
 @media (min-width: 48em) {

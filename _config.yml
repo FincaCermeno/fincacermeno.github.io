@@ -4,6 +4,8 @@ description: Finca Cermeno
 url: https://fincacermeno.com
 logo: "ico"
 
+theme: jekyll-theme-cayman
+
 plugins:
   - jekyll-feed
   - jekyll-sitemap
