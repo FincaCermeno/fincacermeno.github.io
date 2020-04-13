@@ -366,7 +366,7 @@ Venta con casa: estufa de gas/horno, refrigerador, lavadora, secadora, algunas c
 TEXT 6  SALE OF ART, CRAFT, FURNITURE
 
 Please note: Art / craft collection and designer furniture for sale now, separately. Some sold on www.encuentra24.com  Please email questions to fincacermeno@gmail.com
-[encuentra24.com](https://encuentra24.com).
+[encuentra24.com](https://encuentra24.com){:target="_blank"}.
 
 TEXT 7 RENTALS / AQUILADOS
 
