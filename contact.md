@@ -6,14 +6,14 @@ layout: default
 
 
 # Contact
-
+<!--
 Contacts, proposed sale terms for estate and company
 
 <h1>Contact</h1>
 Call <a href="tel:+507-6345-1910">+507-6345-1910</a> or send an email to <a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a>
 
 <a href="https://api.whatsapp.com/send?phone=+50763451910"><i class="fab fa-lg fa-whatsapp"></i></a>
-
+ -->
 
 <dl>
 
