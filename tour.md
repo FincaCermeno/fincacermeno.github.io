@@ -132,7 +132,6 @@ Bathroom near three bedrooms (or offices)
 #### Warehouse (Pool control)
 * Locked enclosure
 * Pump, timer, filter, etc.
-* Covered patio
 
 ![Outside](/assets/img/warehouse3.jpeg)
 

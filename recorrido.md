@@ -99,87 +99,86 @@ Servicio sanitario de uso mutiple cerca tres recámaras (o oficinas)
 
 ![Outside](/assets/img/pool2.jpeg)
 
-#### Covered Pavilion
-* Reinforced concrete columns
-* Laminated fiber roof
+#### Bohio cubierto
+* Columnas de concreto armado
+* Techo de lamina fibrocemento
 
 ![Outside](/assets/img/storage2.jpeg)
 
-#### Warehouse (Pool)
-* Changing room
-* Half-bath
-* Covered patio
+#### Deposito (Piscina)
+* Vestidor  
+* Medio-baño
+* Terraza cubierta
 
 ![Outside](/assets/img/warehouse.jpg)
 
 
 
-# Warehouses
+# Depósitos
 ---
 
-* 4 closed
-* 3 open-air
-* Walls of concrete blocks
-* Roof of galvanized steel sheets
-* Backup for house water, electricity
-* Gardening storage  
-* With covered patio
-* Locked enclosure
+* 4 cerrados
+* 3 aire libre
+* Paredes de bloques repelladas
+* Techo de laminas de acero galvanizado
+* Agua de reserva, electricidad para la casa
+* Almacenamiento de jardineria
+* Con patio cubierto
+* Recinto cerrado
 
 ![Outside](/assets/img/warehouse2.jpeg)
 
-#### Warehouse (Pool control)
-* Locked enclosure
-* Pump, timer, filter, etc.
-* Covered patio
+#### Depósito (Control de piscina)
+* Recinto cerrado
+* Bomba, temporizador, filtración, etc.
 
 ![Outside](/assets/img/warehouse3.jpeg)
 
-#### Warehouse (Well)
-* Locked enclosure
-* Pump, regulator, storage
-* Covered patio
+#### Depósito (Pozo)
+* Recinto cerrado
+* Bomba, regulador, almacenamiento
+* Terrazo cubierto
 
 ![Outside](/assets/img/warehouseSide.jpeg)
 
-#### Carport
+#### Cochera
 
 ![Outside](/assets/img/car.jpg)
 
-#### Storage
-* Locked storage outside kitchen
-* With sink
+#### Almacenamiento
+* Almacenamiento cerrado fuera de la cocina
+* Con tina
 
 ![Outside](/assets/img/storage.jpg)
 
 
 
-# Specifications
+# Especificaciones
 
-| Room | Area | Dimensions |
+| Sala | Área | Dimensiones |
 |-|-|-|
-| Entryway | INSERT | 6.9 m x 1.58 m / 5’2” x 2’8” |
-| Living & Dining Room | INSERT | 8.45m x 6.82m / 27’11” x 22’4”  |
-| Family Room (lower level) | 40.2 m2 / 432.7 ft2 | 6.9 m x 6.12 m / 28’8” x 20’2” |
-| Kitchen | 15.12 m2 / 162.8 ft2 | 1.22m x .82m / 4’x 2’8” |
-| Guest Bathroom | 2.64 m2 / 28.4 ft2 | 1.94m x .97m / 6’4” x 3’2” |
-| Laundry | 10.64 m2 / 114.5 ft2 | 2.58m x 2.82m / 8’6” x 9’3” |
-| Master Bedroom | 17.34 m2 / 186.6 ft2 | 5.16 m x 3.8 m / 16’ x 12’6” |
-| Master Bedroom Bathroom | 6.15 m2 / 66 f2 | INSERT |
-| Master Bedroom Patio | INSERT | INSERT |
-| Nearby Bedroom | 17.34 m2 / 186.6 ft2 | INSERT |
-| Nearby Bedroom Bathroom | 6.15 m2 / 66 ft2   | INSERT |
-| Bedroom 3 | 12.3 m2 / 132.4 ft2 | 3.9m x 3.16m / 10’12” x 10’4” |
-| Bedroom 4 | 14.82 m2 / 159.52 ft2  | 3.9m x 3.1m / 12’10” x 10’4” |
-| Bedroom 5 | 11.3 m2 / 121.6 ft2 | 3.9m x 2.9m / 9’7” x 12’10” |
-| Bathroom | 5 m2 / 53.8 ft2 | INSERT |
-| Covered Pavilion | 78 m2 / 840 ft2 | INSERT |
-| Pool Changing Room | INSERT | 3.97m x 2.14m / 13’ x 7’  |
-| Pool Half-bath | INSERT | 2.16m x 1.30m / 7’1” x 4’3” |
-| Pool Covered Patio | INSERT | INSERT |
-| Pool Control Room | INSERT | INSERT |
-| Warehouse | 6.69 m2 / 72 ft2. | INSERT |
-| Locked Enclosure | INSERT | INSERT |
-| Covered Patio | INSERT | INSERT |
-| Carport | INSERT | INSERT |
-| Outdoor Storage | INSERT | INSERT |
+| Entrada | INSERT | 6.9 m x 1.58 m / 5’2” x 2’8” |
+| Sala de estar y comedor   | INSERT | 8.45m x 6.82m / 27’11” x 22’4”  |
+| Sala familiar (desnivel) | 40.2 m2 / 432.7 ft2 | 6.9 m x 6.12 m / 28’8” x 20’2” |
+| Cocina | 15.12 m2 / 162.8 ft2 | 1.22m x .82m / 4’x 2’8” |
+| Baño de visitas | 2.64 m2 / 28.4 ft2 | 1.94m x .97m / 6’4” x 3’2” |
+| Lavandería | 10.64 m2 / 114.5 ft2 | 2.58m x 2.82m / 8’6” x 9’3” |
+| Recámara principal  | 17.34 m2 / 186.6 ft2 | 5.16 m x 3.8 m / 16’ x 12’6” |
+| Baño de la recámara principal | 6.15 m2 / 66 f2 | INSERT |
+| Patio de la recámara principal | INSERT | INSERT |
+| Recámara cerca | 17.34 m2 / 186.6 ft2 | INSERT |
+| Baño de la recámara cerca | 6.15 m2 / 66 ft2   | INSERT |
+| Recámara 3 | 12.3 m2 / 132.4 ft2 | 3.9m x 3.16m / 10’12” x 10’4” |
+| Recámara 4 | 14.82 m2 / 159.52 ft2  | 3.9m x 3.1m / 12’10” x 10’4” |
+| Recámara 5 | 11.3 m2 / 121.6 ft2 | 3.9m x 2.9m / 9’7” x 12’10” |
+| Baño | 5 m2 / 53.8 ft2 | INSERT |
+| Bohio cubierto | 78 m2 / 840 ft2 | INSERT |
+| Vestidor de la Piscina | INSERT | 3.97m x 2.14m / 13’ x 7’  |
+| Medio-baño de la Piscina | INSERT | 2.16m x 1.30m / 7’1” x 4’3” |
+| Terraza cubierta de la Piscina | INSERT | INSERT |
+| Control de piscina | INSERT | INSERT |
+| Depósito | 6.69 m2 / 72 ft2. | INSERT |
+| Recinto cerrado | INSERT | INSERT |
+| Terrazo cubierto | INSERT | INSERT |
+| Cochera | INSERT | INSERT |
+| Almacenamiento fuera | INSERT | INSERT |
