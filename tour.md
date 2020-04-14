@@ -133,12 +133,6 @@ Locked storage outside kitchen, with sink.
 
 
 
-![Outside](/assets/img/outside.jpg)
-![Outside](/assets/img/back.jpg)
-![Outside](/assets/img/gate.jpg)
-
-
-
 
 
 # Specifications
