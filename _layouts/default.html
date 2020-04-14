@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+<html lang="{{ page.lang | default: "en" }}">
     <head>
         {% if site.google_analytics %}
           <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
@@ -37,9 +37,9 @@
 
         <header role="banner" class="page-header masthead">
             <div class="inner">
-                <a href="/"><h3 class="masthead-brand">Finca Monticello</h3></a>
+                <a href="{{ site.data.navigation[page.lang][0].link }}"><h3 class="masthead-brand">Finca Monticello</h3></a>
                 <nav class="nav nav-masthead justify-content-center">
-                    {% for item in site.data.navigation %}
+                    {% for item in site.data.navigation[page.lang] %}
                         <a href="{{ item.link }}" class="nav-link {% if page.url == item.link %}active{% endif %}">
                             {{ item.name }}
                         </a>
@@ -47,11 +47,17 @@
                     <a href="tel:+507-6345-1910"><i class="fas fa-lg fa-phone"></i></a>
                     <a href="mailto:fincacermeno@gmail.com"><i class="fas fa-lg fa-envelope"></i></a>
                     <a href="https://api.whatsapp.com/send?phone=+50763451910"><i class="fab fa-lg fa-whatsapp"></i></a>
+                    {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+                    {% for page in pages %}
+                        <a href="{{ page.url }}" class="{{ page.lang }}">
+                            <img src="/assets/img/{{ page.lang }}.svg" /> {{ page.lang }}
+                        </a>
+                    {% endfor %}
                 </nav>
             </div>
         </header>
 
-        <main id="content" class="{% if page.url == '/' %}landing{% else %}main-content{% endif %}" role="main">
+        <main id="content" class="{% if page.ref == 'home' %}landing{% else %}main-content{% endif %}" role="main">
             {{content}}
         </main>
 

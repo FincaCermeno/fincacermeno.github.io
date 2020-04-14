@@ -1,8 +1,24 @@
-- name: Home
-  link: /
-- name: Info
-  link: /info/
-- name: Tour
-  link: /tour/
-- name: Contact
-  link: /contact/
+en:
+  - name: Home
+    link: /
+  - name: Info
+    link: /info/
+  - name: Tour
+    link: /tour/
+  - name: Contact
+    link: /contact/
+es:
+  - name: Home
+    link: /inicio/
+  - name: Info
+    link: /info/
+  - name: Tour
+    link: /tour/
+  - name: Contacto
+    link: /contacto/
+
+icons:
+  en:
+    🇺🇸
+  es:
+    🇪🇸

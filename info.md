@@ -1,9 +1,11 @@
 ---
 title: Info
 layout: default
+lang: en
+ref: info
 ---
 
-# General property
+# General Information
 ---
 An exceptional country estate---a lovely split-level, with deep pool and pavilion---in an exceptional setting, atop a hill cooled by fresh breezes. A traditional “casa” of the 20th century adapted intelligently to the 21st century.
 
@@ -42,7 +44,7 @@ An exceptional country estate---a lovely split-level, with deep pool and pavilio
 <dd>Single- or extended-family dwelling; room rentals, pool / pavilion rentals; house rentals for conferences, birthday parties, weddings, anniversaries</dd>
 </dl>
 
-##### Distance, directions:
+##### Directions:
 
 *   Finca Monticello is 50 (estimated) driving minutes from Panama City, halfway between the resort town of Coronado and the provincial capital of La Chorrera
 *   4.4 km / 2.7 mi from the Panamerican Highway in Capira, on the same side and just past the local landmark of Hogares Crea
@@ -53,7 +55,7 @@ Adjacent properties: INSERT
 
 
 
-## The neighborhood
+## The Neighborhood
 
 <dl>
 
@@ -63,7 +65,7 @@ Adjacent properties: INSERT
 <dt>To Cermeño (central):</dt>
 <dd>1.6 km / 1 mi to schools, park, church, sports fields</dd>
 
-<dt>To La Chorrea:</dt>
+<dt>To La Chorrera:</dt>
 <dd>16 km / 10 mi to malls, hospitals, veterinarians, etc.</dd>
 
 <dt>To Coronado:</dt>
@@ -77,7 +79,7 @@ Easy proximity to Metro and ever-more sophisticated Panama City
 
 
 
-## Private systems & public services
+## Utilities
 
 <dl>
 

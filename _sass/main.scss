@@ -192,9 +192,19 @@ body {
   opacity: 0.8;
 }
 
-#outside {
-  background-image: url('/assets/img/outside.jpg');
+
+nav img {
+  height: 24px;
 }
-#gate {
-  background-image: url('/assets/img/gate.jpg');
+
+.nav-masthead a:hover {
+  text-decoration: none
+}
+
+.nav-masthead a {
+  color: white;
+}
+
+.en:lang(en), .es:lang(es){
+    font-weight: 700;
 }

@@ -1,137 +1,157 @@
 ---
 title: Tour
 layout: default
+lang: en
+ref: tour
 ---
 
 
 
-# House
+# House Tour
 ---
-Interior size (est) / Tamaño interior (est)
-333 m2 / 3,590 ft2
 
-History: Land purchased in 1965, original house constructed in 1967, apparently with five owners
+<dl>
 
-Construction / Construcción
-Walls / floors: Concrete blocks, reinforced concrete columns.
+<dt>Interior size (est)</dt>
+<dd>333 m2 / 3,590 ft2</dd>
 
-Roof: Corrugated tin, aluminum / wood beams, galvanized steel sheets
+<dt>History</dt>
+<dd>Land purchased in 1965, original house constructed in 1967, apparently with five owners</dd>
 
-### Interior Design Touches
+<dt>Construction</dt>
+<dd>Walls / floors: Concrete blocks, reinforced concrete columns.</dd>
+
+<dt>Roof</dt>
+<dd>Corrugated tin, aluminum / wood beams, galvanized steel sheets</dd>
+
+</dl>
+
+#### Interior Design Touches
 
 Open-floor plan. Eat-in kitchen with granite counters, vaulted cathedral ceilings and/or with cedar, wood-framed windows in the French style, terra cotta with sealed wood trim in living rooms and bedrooms. Cedar closets (built-in, tiled, floor-to-ceiling) in all bedrooms.
 
-### Common Areas
-
 #### Entryways
 
-Metal doors, including Dutch doors.
-Access via mudroom, kitchen, laundry.
-
-
-
+* Metal doors, including Dutch doors.
+* Access via mudroom, kitchen, laundry.
 
 #### Salons
 
-Living & dining room
+* Living & dining room
+* Family room (lower level)
+* Floor-to-ceiling French-style windows, ceilings of tongue-in-groove cedar with recessed lighting, terra cotta floors and open-air interior walls.
 
-Family room (lower level)
-
-Floor-to-ceiling French-style windows, ceilings of tongue-in-groove cedar with recessed lighting, terra cotta floors and open-air interior walls.
-
-
+![Outside](/assets/img/salon.jpeg)
 
 #### Kitchen
 
-Pantry, laundry, guest bathroom
+* Pantry, laundry, guest bathroom
+* Tiled floor-to-midwall, stainless steel appliances, countertops of granite/butcher block, breakfast bar, cedar ceiling
 
-Tiled floor-to-midwall, stainless steel appliances, countertops of granite/butcher block, breakfast bar, cedar ceiling.
-
-
-### Bedrooms (5)
-
-Hallway to bedrooms
-
-Master bedroom with floor-to-ceiling windows / doors to outside wraparound balcony, with dominant view of Trinidad volcano. Attached bathroom with bathtub.
-
-![Outside](/assets/img/volcano.jpg)
-
-All built-in closets of cedar, recessed lighting. Some cathedral ceilings, French windows of wood. Others ceiling fans, “Persian” windows.
+![Outside](/assets/img/kitchen.jpg)
 
 
-Nearby bedroom with attached bath
 
-![Outside](/assets/img/beds.jpg)
+# Bedrooms (5)
+---
 
-Bathroom/ Baño
-Bath near three bedrooms (or offices)
+#### Master Bedroom
+* Floor-to-ceiling windows
+* Doors to outside wraparound balcony, with dominant view of Trinidad volcano
+* Attached bathroom with bathtub
 
-![Outside](/assets/img/bunks.jpg)
-
-
-## Landscaping
-
-Evergreen, deciduous, fruit trees: pine, ficus, palm.
-
-Orchard (2 dozen fruit trees): grapefruit, mango, lemon, lime, various oranges.
-
-Decorative bushes / plants.
-
-Hanging herb garden. Space for a vegetable garden.
-
-Drainage system with specific plants, grasses; canals on land, roof
-
-
-## POOL AREA
-
-Diving pool, 40,000 gallons graded from INSERT m / 4 ft a INSERT  m / 9 ft), pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath.
-
-
-Covered pavilion
-Construction: Reinforced concrete columns, laminated fiber roof
-
-Warehouse (Pool)
-Changing room
-Half-bath
-Covered patio
-
-Staircase / Escalera: 37 cement steps with railing / Etapas de cemento con pasamano
-
-Warehouse (Pool control)
-Locked enclosure
-Pump, timer, filter, etc.
-
-
-Warehouses
-4 closed; 3 open-air
-Construction: Walls of concrete blocks, roof of galvanized steel sheets.
-
-![Outside](/assets/img/warehouse.jpg)
-
-Backup for house water, electricity Gardening storage  With covered patio
-Locked enclosure
-Covered patio
+![Outside](/assets/img/bedroom.jpg)
 
 ![Outside](/assets/img/patio.jpg)
 
-Warehouse (Well)
-Locked enclosure. Pump, regulator, storage
-Covered patio
+![Outside](/assets/img/side.jpeg)
 
-OTHER STORAGE
+#### Nearby bedroom with attached bath
+* All built-in closets of cedar, recessed lighting
+* Some cathedral ceilings, French windows of wood
+* Others ceiling fans, “Persian” windows
 
-Open-air walls near fence.
-Carport with galvanized roof.
+![Outside](/assets/img/beds.jpg)
+
+#### Other Bedrooms
+Bathroom near three bedrooms (or offices)
+
+![Outside](/assets/img/bunks.jpg)
+
+#### Landscaping
+
+* Evergreen, deciduous, fruit trees: pine, ficus, palm.
+* Orchard (2 dozen fruit trees): grapefruit, mango, lemon, lime, various oranges.
+* Decorative bushes / plants.
+* Hanging herb garden. Space for a vegetable garden.
+* Drainage system with specific plants, grasses; canals on land, roof
+
+![Outside](/assets/img/view.jpeg)
+
+
+
+# Pool
+---
+
+* Diving pool
+* 40,000 gallons graded from INSERT m / 4 ft a INSERT  m / 9 ft)
+* Pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath
+* Staircase: 37 cement steps with railing
+
+![Outside](/assets/img/pool2.jpeg)
+
+#### Covered Pavilion
+* Reinforced concrete columns
+* Laminated fiber roof
+
+![Outside](/assets/img/storage2.jpeg)
+
+#### Warehouse (Pool)
+* Changing room
+* Half-bath
+* Covered patio
+
+![Outside](/assets/img/warehouse.jpg)
+
+
+
+# Warehouses
+---
+
+* 4 closed
+* 3 open-air
+* Walls of concrete blocks
+* Roof of galvanized steel sheets
+* Backup for house water, electricity
+* Gardening storage  
+* With covered patio
+* Locked enclosure
+
+![Outside](/assets/img/warehouse2.jpeg)
+
+#### Warehouse (Pool control)
+* Locked enclosure
+* Pump, timer, filter, etc.
+* Covered patio
+
+![Outside](/assets/img/warehouse3.jpeg)
+
+#### Warehouse (Well)
+* Locked enclosure
+* Pump, regulator, storage
+* Covered patio
+
+![Outside](/assets/img/warehouseSide.jpeg)
+
+#### Carport
 
 ![Outside](/assets/img/car.jpg)
 
-Locked storage outside kitchen, with sink.
+#### Storage
+* Locked storage outside kitchen
+* With sink
 
 ![Outside](/assets/img/storage.jpg)
-
-
-
-
 
 
 

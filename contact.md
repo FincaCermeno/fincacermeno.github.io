@@ -1,27 +1,22 @@
 ---
 title: Contact
 layout: default
+lang: en
+ref: contact
 ---
 
 
 
 # Contact
-<!--
-Contacts, proposed sale terms for estate and company
-
-<h1>Contact</h1>
-Call <a href="tel:+507-6345-1910">+507-6345-1910</a> or send an email to <a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a>
-
-<a href="https://api.whatsapp.com/send?phone=+50763451910"><i class="fab fa-lg fa-whatsapp"></i></a>
- -->
+---
 
 <dl>
 
 <dt>Email</dt>
-<dd>fincacermeno@gmail.com</dd>
+<dd><a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a></dd>
 
 <dt>WhatsApp</dt>
-<dd>Text or audio to 6345-1910. No calls, please.</dd>
+<dd>Text or audio to <a href="https://api.whatsapp.com/send?phone=+50763451910">6345-1910</a>. No calls, please.</dd>
 
 <dt>Legal location code</dt>
 <dd>8204</dd>
@@ -34,40 +29,31 @@ Call <a href="tel:+507-6345-1910">+507-6345-1910</a> or send an email to <a href
 
 </dl>
 
+#### Details
 
-Negotiable finders’ fee or commission
+* Negotiable finders’ fee or commission
+* The company (Monticello Holdings, Inc.) is also for sale
+* Lawyer available, experienced with real estate transfers, representing buyer, seller or both
+* Sold with house: gas stove/oven, refrigerator, washer, dryer, some curtains / shades. Available semi-furnished or without furniture
 
-
-The company (Monticello Holdings, Inc.) is also for sale.
-
-Lawyer available, experienced with real estate transfers, representing buyer, seller or both
-
-### Documents
+#### Documents
 
 *   Recent appraisal for qualified buyers
 *   List available of local experts and handymen
 *   Diagrams of utility systems (water/electricity) /
 *   Instructions to operate and repair tools, machines, pool system
 
-Sold with house: gas stove/oven, refrigerator, washer, dryer, some curtains / shades. Available semi-furnished or without furniture
+#### Sale of Art, Craft, Furniture
+
+Please note: Art / craft collection and designer furniture for sale now, separately. Some sold on <a href="https://encuentra24.com" target="_blank">encuentra24.com</a>.  Please email questions to <a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a>.
+
+
+#### Rentals
+
+Pool or entire estate available for rent.
 
 
 
-## Sale of Art, Craft, Furniture
+#### Disclaimer
 
-Please note: Art / craft collection and designer furniture for sale now, separately. Some sold on encuentra24.com  Please email questions to fincacermeno@gmail.com
-
-
-## Rentals
-
-Pool / Piscina. Entire estate / Finca entero.
-
-
-
-## Disclaimers
-
-Estimated measurements / Mediciones estimadas
-Outside length x width, metric / imperial
-Exterior largo x ancho, metrica / imperial
-
-Disclaimer: Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction.
+Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction.
