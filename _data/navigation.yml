@@ -8,17 +8,11 @@ en:
   - name: Contact
     link: /contact/
 es:
-  - name: Home
+  - name: Inicio
     link: /inicio/
   - name: Info
-    link: /info/
-  - name: Tour
-    link: /tour/
-  - name: Contacto
-    link: /contacto/
-
-icons:
-  en:
-    🇺🇸
-  es:
-    🇪🇸
+    link: /infos/
+  - name: Recorrido
+    link: /recorrido/
+  - name: Contactos
+    link: /contactos/

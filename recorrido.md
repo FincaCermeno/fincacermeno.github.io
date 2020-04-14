@@ -1,64 +1,63 @@
 ---
-title: Tour
+title: Recorrido
 layout: default
-lang: en
+lang: es
 ref: tour
 ---
 
 
 
-# House Tour
+# Recorrido de la Finca
 ---
 
 <dl>
 
-<dt>Interior size (est)</dt>
+<dt>Tamaño interior (est)</dt>
 <dd>333 m2 / 3,590 ft2</dd>
 
-<dt>History</dt>
-<dd>Land purchased in 1965, original house constructed in 1967, apparently with five owners</dd>
+<dt>Cuenta</dt>
+<dd>Terreno comprado en 1965, con casa original construida 1en 1967, quizás con cinco dueños</dd>
 
-<dt>Walls / floors</dt>
-<dd>Concrete blocks, reinforced concrete columns.</dd>
+<dt>Paredes / pisos</dt>
+<dd>Bloques de concreto, columnas de concreto armado</dd>
 
-<dt>Roof</dt>
-<dd>Corrugated tin, aluminum / wood beams, galvanized steel sheets</dd>
+<dt>Techo</dt>
+<dd>Estaño corrugado, vigas de aluminio y madera, láminas de acero galvanizado</dd>
 
 </dl>
 
-#### Interior Design Touches
+#### Toques de Diseño del Interior
 
-Open-floor plan. Eat-in kitchen with granite counters, vaulted cathedral ceilings and/or with cedar, wood-framed windows in the French style, terra cotta with sealed wood trim in living rooms and bedrooms. Cedar closets (built-in, tiled, floor-to-ceiling) in all bedrooms.
+Planta abierta. Cocina comedor con mostradores de granito. Techos altos abovedados y/o de cedro. Ventanas con marcos madera en estilo francesa. Terracota con molduras de madera de cedro selladas en salas de estar y dormitorios. Armarios de cedro (empotrados, alicatados, de piso a techo) en todas las habitaciones.
 
-#### Entryways
+#### Entradas
 
-* Metal doors, including Dutch doors.
-* Access via mudroom, kitchen, laundry.
+* Puertas metálicas, incluyendo puertas holandesas.
+* Acceso a tráves sala del barro, cocina, lavanderia.
 
-#### Salons
+#### Salones
 
-* Living & dining room
-* Family room (lower level)
-* Floor-to-ceiling French-style windows, ceilings of tongue-in-groove cedar with recessed lighting, terra cotta floors and open-air interior walls.
+* Sala de estar y comedor
+* Sala familiar (desnivel)
+* Ventanas casi piso-a-cielo-raso con marca de cedro de estilo francesa, y cielo rasos de cedro machihembrado con iluminación empotrada, pisos de terracota y paredes interiores con aire libre.
 
 ![Outside](/assets/img/salon.jpeg)
 
-#### Kitchen
+#### Cocina
 
-* Pantry, laundry, guest bathroom
-* Tiled floor-to-midwall, stainless steel appliances, countertops of granite/butcher block, breakfast bar, cedar ceiling
+* Despensa, lavanderia, baño de visitas
+* Baldosa en piso y pared medio, línea blanco de acero inoxidable, encímeras de granito y de carnicería, desayunador, cielo raso de cedro.
 
 ![Outside](/assets/img/kitchen.jpg)
 
 
 
-# Bedrooms (5)
+# Recámaras (5)
 ---
 
-#### Master Bedroom
-* Floor-to-ceiling windows
-* Doors to outside wraparound balcony, with dominant view of Trinidad volcano
-* Attached bathroom with bathtub
+#### Recámara Principal
+* ventanas / puertas de piso-a-cielo raso a balcón envolver alrededor con vista dominante de Volcán Trinidad.
+* Servicio sanitario integrado, con bañera.
 
 ![Outside](/assets/img/bedroom.jpg)
 
@@ -66,37 +65,37 @@ Open-floor plan. Eat-in kitchen with granite counters, vaulted cathedral ceiling
 
 ![Outside](/assets/img/side.jpeg)
 
-#### Nearby bedroom with attached bath
-* All built-in closets of cedar, recessed lighting
-* Some cathedral ceilings, French windows of wood
-* Others ceiling fans, “Persian” windows
+#### Recámara cerca con baño integrado
+* Todos armarios de cedro, iluminación empotrada.
+* Algunos techos altos, ventanas francesas de madera.
+* Otros ventiladores de techo, ventanas persianas.
 
 ![Outside](/assets/img/beds.jpg)
 
-#### Other Bedrooms
-Bathroom near three bedrooms (or offices)
+#### Otras Recámaras
+Servicio sanitario de uso mutiple cerca tres recámaras (o oficinas)
 
 ![Outside](/assets/img/bunks.jpg)
 
-#### Landscaping
+#### Paisaje
 
-* Evergreen, deciduous, fruit trees: pine, ficus, palm.
-* Orchard (2 dozen fruit trees): grapefruit, mango, lemon, lime, various oranges.
-* Decorative bushes / plants.
-* Hanging herb garden. Space for a vegetable garden.
-* Drainage system with specific plants, grasses; canals on land, roof
+* Arboles de hoja perenne, caducifolios, frutales: pino, ficus, palma.
+* Huerta (dos docena arboloes fructales): toronja, mango, limón, lima, toronja, naranjas varias.
+* Arbustos / matas decorativas. (Genibre, lengua madre, croto, papo, vetivar, bambu chino, bella dama verde, cocotheo pluma, reo, sanguinaria, dieffimbachia camilo, calatea, nazareno, acocoyesia.)
+* Colgando jardin de hierbas. Espacio para un jardin de vegetales.
+* Sistema de drenaje con matas y pastos específicos; canales en techo y terreno.
 
 ![Outside](/assets/img/view.jpeg)
 
 
 
-# Pool
+# Piscina
 ---
 
-* Diving pool
-* 40,000 gallons graded from INSERT m / 4 ft a INSERT  m / 9 ft)
-* Pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath
-* Staircase: 37 cement steps with railing
+* Piscina de buceo
+* inclinada de INSERT m / 4 ft a  INSERT m / 9 ft
+* Bohio con bar / parilla / tina, vestidor, ducha al aire libre, medio baño.
+* Escalera: 37 etapas de cemento con pasamano
 
 ![Outside](/assets/img/pool2.jpeg)
 

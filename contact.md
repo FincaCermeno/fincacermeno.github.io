@@ -40,7 +40,7 @@ ref: contact
 
 *   Recent appraisal for qualified buyers
 *   List available of local experts and handymen
-*   Diagrams of utility systems (water/electricity) /
+*   Diagrams of utility systems (water/electricity)
 *   Instructions to operate and repair tools, machines, pool system
 
 #### Sale of Art, Craft, Furniture

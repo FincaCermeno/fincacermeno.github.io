@@ -16,7 +16,7 @@
         <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 
 
-        <title> {% if page.title != "Home" %}{{ page.title }} | {% endif %} {{ site.title }}</title>
+        <title> {% if page.ref != "home" %}{{ page.title }} | {% endif %} {{ site.title }}</title>
 
         {% feed_meta %}
         {% seo %}
@@ -63,7 +63,7 @@
 
         <!-- FOOTER -->
         <footer class="container site-footer">
-            <p class="float-right"><a href="#">Back to top</a></p>
+            <p class="float-right"><a href="#">{% if page.lang=="en" %} Back to top {% else %} Regresar al principio {% endif %}</a></p>
             <p><i class="far fa-copyright"></i> <script>document.write(new Date().getFullYear())</script> Finca Monticello Holdings, Inc. </p>
         </footer>
         <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
