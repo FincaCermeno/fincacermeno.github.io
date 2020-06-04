@@ -1,12 +1,13 @@
 en:
   - name: Home
     link: /
+  - name: House
+    link: /house/
+  - name: Grounds
+    link: /grounds/
   - name: Info
     link: /info/
-  - name: Tour
-    link: /tour/
-  - name: Contact
-    link: /contact/
+
 es:
   - name: Inicio
     link: /inicio/
