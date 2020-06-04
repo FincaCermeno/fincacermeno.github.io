@@ -30,7 +30,7 @@ Land purchased 1965. Original house constructed 1967 and size doubled with expan
 
 Diving pool: 40,000 gallons graded from INSERT m / 4 ft a INSERT m / 9 ft). Pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath. Staircase: 37 cement steps with railing
 
-![Pool](/assets/img/pool1.jpeg)
+![Pool](/assets/img/pool1.jpg)
 
 ![Pool](/assets/img/pool2.jpg)
 
@@ -57,12 +57,6 @@ Drainage system with specific plants, grasses; canals on land and roof
 
 
 
-#### Covered Pavilion
-* Reinforced concrete columns
-* Laminated fiber roof
-
-![Outside](/assets/img/storage2.jpeg)
-
 
 
 # Warehouses / Storage
@@ -77,7 +71,6 @@ Drainage system with specific plants, grasses; canals on land and roof
 * With covered patio
 * Locked enclosure
 
-![Outside](/assets/img/warehouse2.jpeg)
 
 #### Warehouse (Well)
 * Locked enclosure
@@ -100,12 +93,6 @@ Drainage system with specific plants, grasses; canals on land and roof
 #### Carport
 
 ![Outside](/assets/img/car.jpg)
-
-#### Storage
-* Locked storage outside kitchen
-* With sink
-
-![Outside](/assets/img/storage.jpg)
 
 
 

@@ -5,9 +5,12 @@ lang: en
 ref: info
 ---
 
+
+![Door](/assets/img/info0.jpg)
+
 ![Volcano](/assets/img/info1.jpg)
 
-![View](/assets/img/info2.jpg)
+
 
 Finca Monticello is an exceptional country estate in an exceptional setting: a lovely split-level, with pavilion and deep pool, atop a hill cooled by fresh breezes. A traditional “casa de campo” of the 20th century adapted intelligently to the 21st century.
 
