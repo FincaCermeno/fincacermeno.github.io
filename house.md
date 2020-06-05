@@ -5,8 +5,16 @@ lang: en
 ref: house
 ---
 
+<!-- ![Door](/assets/img/info0.jpg){: style="float: left; margin-right: 2em;"} -->
+
+<div class="row">
 
 
+<div class="col-sm text-center">
+<img src="/assets/img/info0.jpg" alt="Door">
+
+</div>
+<div markdown="1" class="col-sm">
 #### Overview
 
 333 m<sup>2</sup> / 3590 ft<sup>2</sup>. 5 bedrooms, 4 full baths, 2 community rooms, renovated kitchen, laundry, walk-in pantry
@@ -14,6 +22,9 @@ ref: house
 #### Design Features
 
 Open-floor plan. Terracotta floors, with wood accents. Kitchen counters of granite, polished concrete, butcher block. Deep bathtub. Bookcases, display nooks, art supports throughout. French-style windows, bedroom closets (floor-to-ceiling, built-in, tiled), high or vaulted ceilings fitted tongue-and-groove, all of cedar
+
+</div>
+</div>
 
 ![Dog](/assets/img/dog.jpeg)
 

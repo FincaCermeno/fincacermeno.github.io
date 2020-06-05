@@ -6,7 +6,7 @@ ref: info
 ---
 
 
-![Door](/assets/img/info0.jpg)
+
 
 ![Volcano](/assets/img/info1.jpg)
 
@@ -20,7 +20,7 @@ Open-floor plan. Terra cotta floors, trimmed with wood. Eat-in kitchen with gran
 
 #### Rent Information
 
-Single- or extended-family dwelling; room, pool, pavilion, entire-finca rentals for conferences, birthdays, quinceñeras, weddings, anniversaries.  *Part or entire estate available for rent.*
+Single- or extended-family dwelling; room, pool, pavilion, entire-finca rentals for conferences, birthdays, quinceñeras, weddings, anniversaries.  **Part or entire estate available for rent.**
 
 
 ![Pool](/assets/img/info3.jpg)
@@ -43,7 +43,7 @@ Single- or extended-family dwelling; room, pool, pavilion, entire-finca rentals 
 
 ---
 
-#### FOR SALE
+#### Also For Sale
 
 Artwork, crafts and designer furniture displayed in many photos are for sale separately by private showings, or on encuentra24.com.  For more photos, details or prices, please email <a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a> or text to WhatsApp at <a href="https://api.whatsapp.com/send?phone=+50763451910">507-6345-1910</a>
 

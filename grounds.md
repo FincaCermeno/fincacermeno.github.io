@@ -36,10 +36,18 @@ Diving pool: 40,000 gallons graded from INSERT m / 4 ft a INSERT m / 9 ft). Pavi
 
 # Terraces
 
-![Terrace](/assets/img/terrace1.jpg)
 
-![Terrace](/assets/img/terrace2.jpg)
+<div class="row">
 
+<div class="col-sm text-center">
+<img src="/assets/img/terrace1.jpg" alt="Door">
+
+</div>
+<div class="col-sm text-center">
+<img src="/assets/img/terrace2.jpg" alt="Door">
+
+</div>
+</div>
 
 # Landscaping
 
