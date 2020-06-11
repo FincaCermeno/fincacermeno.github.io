@@ -11,9 +11,6 @@ ref: info
 ![Volcano](/assets/img/info1.jpg)
 
 
-
-Finca Monticello is an exceptional country estate in an exceptional setting: a lovely split-level, with pavilion and deep pool, atop a hill cooled by fresh breezes. A traditional “casa de campo” of the 20th century adapted intelligently to the 21st century.
-
 #### Special Features
 
 Open-floor plan. Terra cotta floors, trimmed with wood. Eat-in kitchen with granite/butcher block counters. Cedar accents: high/vaulted ceilings, French-style windows, bedroom closets (tiled, built-in, floor-to-ceiling).
@@ -188,6 +185,9 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 <dd>Text or recorded messages in Spanish or English to <a href="https://api.whatsapp.com/send?phone=+50763451910">6345-1910</a>. No calls, please.</dd>
 
 </dl>
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1219.4921548574143!2d-79.8495633!3d8.7434212!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNDQnMzMuNyJOIDc5wrA1MCc1OC40Ilc!5e1!3m2!1sen!2sus!4v1591891626735!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
+
 
 #### Disclaimer  
 Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction.

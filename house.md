@@ -14,17 +14,16 @@ ref: house
 <img src="/assets/img/info0.jpg" alt="Door">
 
 </div>
-<div markdown="1" class="col-sm">
-#### Overview
+<div class="col-sm text-center">
+<img src="/assets/img/house1.jpg" alt="Door2">
+</div>
+</div>
 
-333 m<sup>2</sup> / 3590 ft<sup>2</sup>. 5 bedrooms, 4 full baths, 2 community rooms, renovated kitchen, laundry, walk-in pantry
 
 #### Design Features
 
-Open-floor plan. Terracotta floors, with wood accents. Kitchen counters of granite, polished concrete, butcher block. Deep bathtub. Bookcases, display nooks, art supports throughout. French-style windows, bedroom closets (floor-to-ceiling, built-in, tiled), high or vaulted ceilings fitted tongue-and-groove, all of cedar
+333 m<sup>2</sup> / 3590 ft<sup>2</sup>. 5 bedrooms, 4.5 full baths, 2 community rooms, renovated kitchen, laundry, walk-in pantry. Open-floor plan. Terracotta floors, with wood accents. Kitchen counters of granite, polished concrete, butcher block. Deep bathtub. Bookcases, display nooks, art supports throughout. French-style windows, bedroom closets (floor-to-ceiling, built-in, tiled), high or vaulted ceilings fitted tongue-and-groove, all of cedar
 
-</div>
-</div>
 
 ![Dog](/assets/img/dog.jpeg)
 
@@ -48,6 +47,28 @@ Walls, floors of concrete blocks with reinforced columns. Roofs of corrugated ti
 #### Entryways / Lighting
 
 Metal doors, including Dutch. Access via mudroom, kitchen, laundry. Recessed lighting
+
+
+
+#### Family/Living Rooms
+
+* Living & dining room
+* Family room (lower level)
+* Floor-to-ceiling French-style windows, ceilings of tongue-in-groove cedar with recessed lighting, terra cotta floors and open-air interior walls.
+
+![Living Room](/assets/img/living1.jpg)
+![Living Room](/assets/img/living2.jpg)
+
+#### Kitchen
+
+Kitchen tiled floor-to-midwall, stainless steel appliances, breakfast bar, cedar ceiling; countertops of granite, butcher block, polished concrete
+
+![Kitchen](/assets/img/kitchen1.jpg)
+
+![Kitchen](/assets/img/kitchen2.jpg)
+
+
+
 
 
 # Bedrooms (5)
@@ -78,24 +99,6 @@ Metal doors, including Dutch. Access via mudroom, kitchen, laundry. Recessed lig
 Bathroom near three bedrooms (or offices)
 
 ![Bathroom](/assets/img/bathroom2.jpg)
-
-
-#### Family/Living Rooms
-
-* Living & dining room
-* Family room (lower level)
-* Floor-to-ceiling French-style windows, ceilings of tongue-in-groove cedar with recessed lighting, terra cotta floors and open-air interior walls.
-
-![Living Room](/assets/img/living1.jpg)
-![Living Room](/assets/img/living2.jpg)
-
-#### Kitchen
-
-Kitchen tiled floor-to-midwall, stainless steel appliances, breakfast bar, cedar ceiling; countertops of granite, butcher block, polished concrete
-
-![Kitchen](/assets/img/kitchen1.jpg)
-
-![Kitchen](/assets/img/kitchen2.jpg)
 
 
 

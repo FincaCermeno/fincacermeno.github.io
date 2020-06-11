@@ -152,4 +152,3 @@ Information is reliable but not guaranteed. Distances and measurements are appro
 | Covered Patio | 6.7 m2 / 72 ft2 | 2.6m x 1.7m / 9’1” x 5’7” |
 | Locked Enclosure | 8.1 m2 / 87 ft2 | 2.5m x 3.3m / 8’2” x 9’1” |
 | Carport | 24.7 m2 / 266 ft2 | 5.9m x 4.2m  / 19’ x 15’ |
-| Outdoor Storage | INSERT | INSERT |
