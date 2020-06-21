@@ -146,4 +146,4 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 </dl>
 
 
-<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/en.pdf" target="_blank">Download All Property Details</a></p>
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/{{ page.lang }}.pdf" target="_blank">Download All Property Details</a></p>
