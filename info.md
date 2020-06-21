@@ -7,23 +7,7 @@ ref: info
 
 
 
-
-![Volcano](/assets/img/info1.jpg)
-
-
-#### Special Features
-
-Open-floor plan. Terra cotta floors, trimmed with wood. Eat-in kitchen with granite/butcher block counters. Cedar accents: high/vaulted ceilings, French-style windows, bedroom closets (tiled, built-in, floor-to-ceiling).
-
-#### Rent Information
-
-Single- or extended-family dwelling; room, pool, pavilion, entire-finca rentals for conferences, birthdays, quinceñeras, weddings, anniversaries.  **Part or entire estate available for rent.**
-
-
-![Pool](/assets/img/info3.jpg)
-
-
-#### Purchase Information
+## Purchase Information
 
 * Negotiable finders’ fee or commission
 * Company (Monticello Holdings, Inc.) also for sale
@@ -38,7 +22,24 @@ Single- or extended-family dwelling; room, pool, pavilion, entire-finca rentals 
   * Instructions to operate and repair tools, machines (if conveyed with property)
 
 
----
+
+<!--
+#### Special Features
+
+Open-floor plan. Terra cotta floors, trimmed with wood. Eat-in kitchen with granite/butcher block counters. Cedar accents: high/vaulted ceilings, French-style windows, bedroom closets (tiled, built-in, floor-to-ceiling).
+
+#### Rent Information
+
+Single- or extended-family dwelling; room, pool, pavilion, entire-finca rentals for conferences, birthdays, quinceñeras, weddings, anniversaries.  **Part or entire estate available for rent.**
+ -->
+
+
+
+
+
+<!-- ![Pool](/assets/img/info3.jpg) -->
+
+<!-- ---
 
 #### Also For Sale
 
@@ -50,11 +51,16 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 
 ![Art](/assets/img/info5.jpg)
 
-![Art](/assets/img/info6.jpg)
+![Art](/assets/img/info6.jpg) -->
+
+<div class="row mb-3 mt-5">
+
+
+<div class="col-sm" markdown="1">
 
 
 
-# Property Details
+## Property Details
 
 
 <dl>
@@ -67,9 +73,6 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 <dt>Interior Size (Est.)</dt>
 <dd>333 m<sup>2</sup> / 3,590 ft<sup>2</sup></dd>
 
-<dt>Construction</dt>
-<dd>Walls, floors of concrete blocks, reinforced columns. Roofs of corrugated tin, aluminum/wood beams, galvanized steel sheets.</dd>
-
 <dt>History</dt>
 <dd>Land purchased 1965, original house constructed 1967, house size doubled in expansion.</dd>
 
@@ -80,6 +83,12 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 <dd>14 January 2015</dd>
 
 </dl>
+
+</div>
+<div class="col-sm text-center my-auto">
+<img src="/assets/img/info3.jpg" alt="Door2">
+</div>
+</div>
 
 
 ## Utilities
@@ -105,6 +114,8 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 <dd>Major service providers available.</dd>
 
 </dl>
+
+![Volcano](/assets/img/info1.jpg)
 
 
 ## The Neighborhood
@@ -135,59 +146,4 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 </dl>
 
 
-
-
-#### Location Details
-
-<dl>
-<dt>Altitude</dt>
-<dd>700m / 2,300ft</dd>
-
-<dt>Town/Sector</dt>
-<dd>Cermeño</dd>
-
-<dt>District</dt>
-<dd>Capira</dd>
-
-<dt>Province</dt>
-<dd>Panamá, as recorded, but Panamá West since 2015.</dd>
-
-<dt>Legal Location Code</dt>
-<dd>8204</dd>
-
-<dt>Public Registry No.</dt>
-<dd>37621 (F)</dd>
-
-</dl>
-
-
-
-
-
-##### Directions/Visit
-
-*   Finca Monticello is 50 (estimated) driving minutes from Panama City, halfway between the resort town of Coronado and the provincial capital of La Chorrera
-*   4.4 km / 2.7 mi from the Panamerican Highway in Capira, on the same side and just past the local landmark of Hogares Crea
-
-
-
-
-
-# Contact
----
-
-<dl>
-
-<dt>Email</dt>
-<dd><a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a></dd>
-
-<dt>WhatsApp</dt>
-<dd>Text or recorded messages in Spanish or English to <a href="https://api.whatsapp.com/send?phone=+50763451910">6345-1910</a>. No calls, please.</dd>
-
-</dl>
-
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1219.4921548574143!2d-79.8495633!3d8.7434212!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNDQnMzMuNyJOIDc5wrA1MCc1OC40Ilc!5e1!3m2!1sen!2sus!4v1591891626735!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
-
-#### Disclaimer  
-Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction.
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/en.pdf" target="_blank">Download All Property Details</a></p>

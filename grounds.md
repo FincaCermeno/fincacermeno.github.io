@@ -6,7 +6,10 @@ ref: grounds
 ---
 
 
-# Property Details
+## Property Details
+
+
+
 <dl>
 
 <dt>Lot Size (Recorded)</dt>
@@ -18,48 +21,43 @@ ref: grounds
 </dl>
 
 Location: 8°44'33.73''N 79°50'58.37''W  
-Altitude:
+Altitude: 700m / 2,300ft
 
 Land purchased 1965. Original house constructed 1967 and size doubled with expansion
 
 
 
 
-# Pool
+## Pool
 ---
 
-Diving pool: 40,000 gallons graded from INSERT m / 4 ft a INSERT m / 9 ft). Pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath. Staircase: 37 cement steps with railing
+Diving pool: 40,000 gallons graded from 1.2 m / 4 ft to 2.7 m / 9 ft). Pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath. Staircase: 37 cement steps with railing
 
-![Pool](/assets/img/pool1.jpg)
+![Pool](/assets/img/pool1.jpg){:style="width: 85%;"}
 
-![Pool](/assets/img/pool2.jpg)
+![Pool](/assets/img/pool2.jpg){:style="width: 85%;"}
 
-# Terraces
+## Terraces
 
 
 <div class="row">
 
-<div class="col-sm text-center">
-<img src="/assets/img/terrace1.jpg" alt="Door">
+<div class="col-md terrace">
+<img src="/assets/img/terrace1.jpg" alt="Door" class="mb-3">
 
 </div>
-<div class="col-sm text-center">
+<div class="col-md terrace">
 <img src="/assets/img/terrace2.jpg" alt="Door">
 
 </div>
 </div>
 
-# Landscaping
+## Landscaping
 
-Evergreen and deciduous trees (pine, ficus, palm), plus an orchard of two dozen fruit trees (grapefruit, mango, lemon, lime, various oranges, etc.)
-
-Bushes and decorative plants. Hanging herb garden. Space for vegetable garden.
-
-Drainage system with specific plants, grasses; canals on land and roof
+Evergreen and deciduous trees (pine, ficus, palm), plus an orchard of two dozen fruit trees (grapefruit, mango, lemon, lime, various oranges, etc.). Bushes and decorative plants. Hanging herb garden. Space for vegetable garden. Drainage system with specific plants, grasses; canals on land and roof
 
 ![Landscaping](/assets/img/landscaping1.jpg)
 
-![Landscaping](/assets/img/landscaping2.jpeg)
 
 ![Landscaping](/assets/img/landscaping3.jpg)
 
@@ -67,17 +65,10 @@ Drainage system with specific plants, grasses; canals on land and roof
 
 
 
-# Warehouses / Storage
+## Warehouses / Storage
 ---
 
-* 4 closed
-* 3 open-air
-* Walls of concrete blocks
-* Roof of galvanized steel sheets
-* Backup for house water, electricity
-* Gardening storage  
-* With covered patio
-* Locked enclosure
+4 closed, 3 open-air. Walls of concrete blocks, roof of galvanized steel sheets, gardening storage, backup for house water and electricity. Covered patio and locked enclosure.
 
 
 #### Warehouse (Well)
@@ -98,18 +89,18 @@ Drainage system with specific plants, grasses; canals on land and roof
 
 ![Warehouse](/assets/img/warehouse3.jpeg)
 
-#### Carport
+## Carport
 
 ![Outside](/assets/img/car.jpg)
 
 
 
 
-# Utilities  
+## Utilities  
 
 Wells:  In warehouse: 36.6m / 120ft.  Outdoors: capped, depth unknown
 
-# Adjacent and Nearby Properties (Observed)
+## Adjacent and Nearby Properties (Observed)
 <dl>
 
 <dt>To north/northeast:</dt>
@@ -129,22 +120,18 @@ Dairy and poultry farms. Small factory. Racehorse stables and training. Convent 
 
 Finca Monticello: Occupied now year-round by owner. Previously occupied occasionally as a “casa de campo”
 
-# Disclaimer  
-
-Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction
 
 
 
 
-
-# Specifications
+## Specifications
 
 | Room | Area | Dimensions |
 |-|-|-|
 | Pavilion | 91.8 m2 / 988 ft2 | 12.6m x 7.9m / 32’4” x 20’8” |
 | Changing Room | 8.5 m2 / 92 ft2 | 4m x 2.2m / 13’ x 7’1"  |
 | Half-bath | 2.6 m2 / 29 ft2 | 1.3m x 2.2m / 7’1” x 4’3” |
-| Covered Patio | 22.5 m2 /  242 ft2 | INSERT |
+| Covered Patio | 22.5 m2 /  242 ft2 |  |
 | Warehouse (pool) | 5.6 m2 / 60 ft2 | 3m x 1.9m / 9’9” x 7’3” |
 | Warehouse (well) | 16.4 m2 / 177 ft2 | 4.1m x 4m / 13’6” x 13’2” |
 | Covered Patio | 8.2 m2 / 88 ft2 | 4.1m x 2m / 13’5” x 6’7” |

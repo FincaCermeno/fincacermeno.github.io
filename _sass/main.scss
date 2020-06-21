@@ -70,14 +70,16 @@ body {
 .btn {
     display: inline-block;
     font-weight: 400;
-    color: #212529;
+    // color: #212529;
+    color: white;
     text-align: center;
     vertical-align: middle;
     -webkit-user-select: none;
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-color: #f8f9fa;
+    // background-color: #f8f9fa;
+    background-color: #4aa4e6;
     border: 1px solid transparent;
     padding: .375rem .75rem;
     font-size: 1rem;
@@ -101,9 +103,13 @@ body {
 
 
 .btn:hover {
-    color: #212529;
-    background-color: #e2e6ea;
+    // color: #212529;
+    color: white;
+    // background-color: #e2e6ea;
+    background-color: #3e96d6;
     text-decoration: none;
+    border: 1px solid transparent;
+
 }
 
 .btn-outline-light:hover {
@@ -211,4 +217,38 @@ nav img {
 
 .en:lang(en), .es:lang(es){
     font-weight: 700;
+}
+
+
+
+
+.home {
+  min-height: 35vh;
+}
+
+@media (min-width: 768px) {
+  .home {
+    min-height: 30vw;
+  }
+}
+
+.home .btn {
+  right: 10%;
+  bottom: 10%;
+}
+
+.main-content img {
+  max-width: 85%;
+}
+
+.page-header {
+  background-color: #159957;
+  background-image:unset;
+}
+
+@media (min-width: 768px) {
+  .terrace {
+    text-align: center;
+  }
+
 }
