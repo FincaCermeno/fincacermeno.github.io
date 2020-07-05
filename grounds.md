@@ -72,15 +72,20 @@ Evergreen and deciduous trees (pine, ficus, palm), plus an orchard of two dozen 
 
 
 #### Warehouse (Well)
-* Locked enclosure
-* Pump, regulator, storage
-* Covered patio
+<ul>
+<li><span>Locked enclosure</span></li>
+<li><span>Pump, regulator, storage</span></li>
+<li><span>Covered patio</span></li>
+</ul>
 
 ![Outside](/assets/img/warehouse.jpg)
 
 #### Warehouse (Pool control)
-* Locked enclosure
-* Pump, timer, filter, etc.
+<ul>
+<li><span>Locked enclosure</span></li>
+<li><span>Pump, timer, filter, etc.</span></li>
+</ul>
+
 
 ![Outside](/assets/img/warehouseSide.jpeg)
 

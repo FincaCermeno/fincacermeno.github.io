@@ -24,12 +24,19 @@ ref: house
 </div>
 </div> -->
 
-## Design Features
+## House
 
-333 m<sup>2</sup> / 3590 ft<sup>2</sup>. 5 bedrooms, 4.5 full baths, 2 community rooms, renovated kitchen, laundry, walk-in pantry. Open-floor plan. Terracotta floors, with wood accents. Kitchen counters of granite, polished concrete, butcher block. Bookcases, display nooks, art supports throughout. French-style windows, bedroom closets (floor-to-ceiling, built-in, tiled), high or vaulted ceilings fitted tongue-and-groove, all of cedar
+333 m2 / 3590 ft2
 
+Split-level: Five bedrooms, 4.5 bathrooms, 2 community rooms; renovated complex of kitchen, laundry, bathroom, walk-in pantry.
 
-![Door2](/assets/img/house1.jpg)
+Single / extended-family dwelling. Or group home. Or small business office / headquarters.
+
+Rental for conferences, holidays, birthdays, weddings, anniversaries.
+
+Estate now available for rent, in part or whole, until sale completed. See [Contact](./contact.md).
+
+![Dog](/assets/img/dog.jpg)
 
 
 
@@ -46,35 +53,30 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 
 Single- or extended-family dwelling. Can also serve as a rental for conferences, birthdays, weddings, or anniversaries. (Estate, in part or whole, is available for rent until estate has sold).
 
-## Construction
-
-Walls, floors of concrete blocks with reinforced columns. Roofs of corrugated tin, aluminum / wood beams, galvanized steel sheets
-
-![Dog](/assets/img/dog.jpeg)
 
 
-## Entryways / Lighting
+## Living - Dining / Family Rooms
 
-Metal doors, including Dutch. Access via mudroom, kitchen, laundry. Recessed lighting
+<ul>
+<li><span>Rustic: Terracotta floor with wood accents.</span></li>
+<li><span>Elegant: Vaulted ceilings, French-style windows.</span></li>
+<li><span>Custom: Cedar ceilings fitted tongue-and-groove.</span></li>
+</ul>
 
-
-
-## Family/Living Rooms
-
-Living & dining room, Family room (lower level). Floor-to-ceiling French-style windows, ceilings of tongue-in-groove cedar with recessed lighting, terra cotta floors and open-air interior walls.
 
 ![Living Room](/assets/img/living2.jpg)
 
 ![Living Room](/assets/img/living1.jpg)
 
 
-## Kitchen
+## Kitchen Complex
 
 Kitchen tiled floor-to-midwall, stainless steel appliances, breakfast bar, cedar ceiling; countertops of granite, butcher block, polished concrete
 
-![Kitchen](/assets/img/kitchen1.jpg)
 
 ![Kitchen](/assets/img/kitchen2.jpg)
+
+![Kitchen](/assets/img/kitchen3.jpg)
 
 
 
@@ -90,6 +92,10 @@ Floor-to-ceiling windows. Doors to outside wraparound balcony, with dominant vie
 ![Bedroom](/assets/img/bedroom1.jpg)
 
 ![Bathroom](/assets/img/bathroom1.jpg)
+
+#### Bedroom 2
+
+![Bedroom](/assets/img/bedroom2.jpg)
 
 #### Bedroom 3
 
@@ -136,6 +142,16 @@ Bathroom near three bedrooms (or offices)
 
 </dl>
 
+
+## Construction
+
+Walls, floors of concrete blocks with reinforced columns. Roofs of corrugated tin, aluminum / wood beams, galvanized steel sheets
+
+
+
+## Entryways / Lighting
+
+Metal doors, including Dutch. Access via mudroom, kitchen, laundry. Recessed lighting
 
 
 

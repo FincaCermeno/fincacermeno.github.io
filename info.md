@@ -9,18 +9,26 @@ ref: info
 
 ## Purchase Information
 
-* Negotiable finders’ fee or commission
-* Company (Monticello Holdings, Inc.) also for sale
-* Direct dealing with owner preferred
-* Lawyer available, experienced with real estate transfers, representing buyer, seller or both
-* Sold with house: gas stove/oven, refrigerator, washer, dryer, some curtains / shades
-* Available semi-furnished or without furniture
-* Documents available
-  * Recent appraisal for qualified buyers
-  * List of local experts, handymen, cleaners
-  * Operational diagrams, instructions for utilities systems (water/electricity/pool systems)
-  * Instructions to operate and repair tools, machines (if conveyed with property)
+<ul>
+<li><span>Negotiable finders’ fee or commission</span></li>
+<li><span>Company (Monticello Holdings, Inc.) also for sale</span></li>
+<li><span>Direct dealing with owner preferred</span></li>
+<li><span>Lawyer available, experienced with real estate transfers, representing buyer, seller or both</span></li>
+<li><span>Sold with house: gas stove/oven, refrigerator, washer, dryer, some curtains / shades</span></li>
+<li><span>Available semi-furnished or without furniture</span></li>
+<li>
+  <span>Documents available</span>
+  <ul>
+    <li><span>Recent appraisal for qualified buyers</span></li>
+    <li><span>List of local experts, handymen, cleaners</span></li>
+    <li><span>Operational diagrams, instructions for utilities systems (water/electricity/pool systems)</span></li>
+    <li><span>Instructions to operate and repair tools, machines (if conveyed with property)</span></li>
 
+  </ul>
+</li>
+
+
+</ul>
 
 
 <!--
