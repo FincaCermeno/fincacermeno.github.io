@@ -25,8 +25,10 @@ Altitud: 205m / 671p
 ## Piscina / Bohío
 ---
 
-**Piscina de buceo y deposito:** 40,000 galones, graduada de 1.2 m / 4p a 2.7m / 9p
-**Bohio cubierto:** con bar, fregadero. Cerca: vestidor, ducha exterior, medio baño, patio cubierto, 37 escalones     
+<ul>
+<li><span><b>Piscina de buceo y deposito:</b> 40,000 galones, graduada de 1.2 m / 4p a 2.7m / 9p </span></li>
+<li><span><b>Bohio cubierto:</b> con bar, fregadero. Cerca: vestidor, ducha exterior, medio baño, patio cubierto, 37 escalones</span></li>
+</ul>
 
 ![Pool](/assets/img/pool1.jpg){:style="width: 85%;"}
 

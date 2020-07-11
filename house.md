@@ -73,12 +73,15 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 <li><span>Open-air interior walls, with breakfast bar. </span></li>
 <li><span>Counters of granite, polished concrete, butcher block.</span></li>
 <li><span>Stainless-steel appliances in kitchen, white in laundry.</span></li>
+<li><span>Full bathroom for visitors</span></li>
 </ul>
 
 
 ![Kitchen](/assets/img/kitchen2.jpg)
 
 ![Kitchen](/assets/img/kitchen3.jpg)
+
+![Kitchen](/assets/img/kitchenbath.jpg)
 
 
 

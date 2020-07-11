@@ -55,6 +55,7 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 <li><span>Paredes interiores al aire libre, con barra de desayuno</span></li>
 <li><span>Mostradores de granito, hormigón pulido, mesita de carnicero</span></li>
 <li><span>Electrodomésticos de acero inoxidable en cocina, blanco en lavandería</span></li>
+<li><span>Baño completo para visitas</span></li>
 </ul>
 
 
@@ -64,7 +65,7 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 
 ![Kitchen](/assets/img/kitchen3.jpg)
 
-
+![Kitchen](/assets/img/kitchenbath.jpg)
 
 
 
