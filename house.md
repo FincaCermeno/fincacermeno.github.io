@@ -28,13 +28,14 @@ ref: house
 
 333 m2 / 3590 ft2
 
-Split-level: Five bedrooms, 4.5 bathrooms, 2 community rooms; renovated complex of kitchen, laundry, bathroom, walk-in pantry.
+Split-level: 5 bedrooms, 4.5 bathrooms, 2 community rooms. Renovated  kitchen, laundry, bathroom, walk-in pantry.
 
 Single / extended-family dwelling. Or group home. Or small business office / headquarters.
 
-Rental for conferences, holidays, birthdays, weddings, anniversaries.
+Or rental for conferences, holidays, birthdays, weddings, anniversaries.
 
-Estate now available for rent, in part or whole, until sale completed. See [Contact](./contact.md).
+<span style="color: #159957;"> Estate now available for rent, in part or whole, until sale completed. See <span>[Buy/Rent](./contact.md).
+
 
 ![Dog](/assets/img/dog.jpg)
 
@@ -49,18 +50,15 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 
 --- -->
 
-## Potential Uses
-
-Single- or extended-family dwelling. Can also serve as a rental for conferences, birthdays, weddings, or anniversaries. (Estate, in part or whole, is available for rent until estate has sold).
 
 
+## Living - Dining Room / Family Room
 
-## Living - Dining / Family Rooms
 
 <ul>
-<li><span>Rustic: Terracotta floor with wood accents.</span></li>
-<li><span>Elegant: Vaulted ceilings, French-style windows.</span></li>
-<li><span>Custom: Cedar ceilings fitted tongue-and-groove.</span></li>
+<li><span>Vaulted ceilings, French-style windows. </span></li>
+<li><span>Cedar ceilings fitted tongue-and-groove.</span></li>
+<li><span>Terracotta patio outside, floor with wood accents inside</span></li>
 </ul>
 
 
@@ -71,7 +69,11 @@ Single- or extended-family dwelling. Can also serve as a rental for conferences,
 
 ## Kitchen Complex
 
-Kitchen tiled floor-to-midwall, stainless steel appliances, breakfast bar, cedar ceiling; countertops of granite, butcher block, polished concrete
+<ul>
+<li><span>Open-air interior walls, with breakfast bar. </span></li>
+<li><span>Counters of granite, polished concrete, butcher block.</span></li>
+<li><span>Stainless-steel appliances in kitchen, white in laundry.</span></li>
+</ul>
 
 
 ![Kitchen](/assets/img/kitchen2.jpg)
@@ -82,38 +84,55 @@ Kitchen tiled floor-to-midwall, stainless steel appliances, breakfast bar, cedar
 
 
 
-## Bedrooms (5)
+## Beds and Baths
 ---
 
-#### Bedroom 1
+#### Bedroom 1 (Master + attached bathroom with deep tub)
 
-Floor-to-ceiling windows. Doors to outside wraparound balcony, with dominant view of Trinidad volcano. Attached bathroom with bathtub.
+<ul>
+<li><span>Floor-to-ceiling cedar closets, with tiled floor, storage overhead</span></li>
+<li><span>Spectacular sunsets and Trinidad peaks, no extra charge</span></li>
+</ul>
+
 
 ![Bedroom](/assets/img/bedroom1.jpg)
 
 ![Bathroom](/assets/img/bathroom1.jpg)
 
-#### Bedroom 2
+#### Bedroom 2 Paired with master, with full bath attached
+
 
 ![Bedroom](/assets/img/bedroom2.jpg)
 
-#### Bedroom 3
+#### Bedrooms (Offices) 3,4,5
 
 ![Bedroom](/assets/img/bedroom3.jpg)
 
-#### Bedroom 4
+
 
 ![Bedroom](/assets/img/bedroom4.jpg)
 
-#### Bedroom 5
+
 
 ![Bedroom](/assets/img/bedroom5.jpg)
 
 #### Guest Bathroom
 
-Bathroom near three bedrooms (or offices)
-
 ![Bathroom](/assets/img/bathroom2.jpg)
+
+
+
+
+
+
+## Construction / Access / Lighting
+
+<ul>
+<li><span>Walls and floors of concrete blocks and reinforced columns. </span></li>
+<li><span>Roofs of corrugated tin and galvanized steel sheets, with aluminum or wood beams.</span></li>
+<li><span>Metal Dutch doors to upper-level kitchen and laundry, metal door to lower-level mudroom.</span></li>
+<li><span>Recessed lighting, multiple outlets throughout.</span></li>
+</ul>
 
 
 
@@ -142,16 +161,6 @@ Bathroom near three bedrooms (or offices)
 
 </dl>
 
-
-## Construction
-
-Walls, floors of concrete blocks with reinforced columns. Roofs of corrugated tin, aluminum / wood beams, galvanized steel sheets
-
-
-
-## Entryways / Lighting
-
-Metal doors, including Dutch. Access via mudroom, kitchen, laundry. Recessed lighting
 
 
 

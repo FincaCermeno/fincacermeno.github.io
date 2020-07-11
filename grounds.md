@@ -8,8 +8,6 @@ ref: grounds
 
 ## Property Details
 
-
-
 <dl>
 
 <dt>Lot Size (Recorded)</dt>
@@ -21,112 +19,71 @@ ref: grounds
 </dl>
 
 Location: 8°44'33.73''N 79°50'58.37''W  
-Altitude: 700m / 2,300ft
-
-Land purchased 1965. Original house constructed 1967 and size doubled with expansion
+Altitude: 205m / 671ft
 
 
-
-
-## Pool
+## Pool / Pavilion
 ---
 
-Diving pool: 40,000 gallons graded from 1.2 m / 4 ft to 2.7 m / 9 ft). Pavilion with bar/barbecue/sink, dressing room, outdoors shower, half-bath. Staircase: 37 cement steps with railing
+<ul>
+<li><span>Diving pool: 40,000 gallons graded from 1.2 m / 4 ft to 2.7 m / 9 ft. </span></li>
+<li><span>Covered pavilion, with bar, sink.</span></li>
+<li><span>Nearby barbecue pit, dressing room, outdoor shower,  half-bath, covered patio, 37 cement steps</span></li>
+</ul>
 
 ![Pool](/assets/img/pool1.jpg){:style="width: 85%;"}
 
 ![Pool](/assets/img/pool2.jpg){:style="width: 85%;"}
 
-## Terraces
 
-
-<div class="row">
-
-<div class="col-md terrace">
-<img src="/assets/img/terrace1.jpg" alt="Door" class="mb-3">
-
-</div>
-<div class="col-md terrace">
-<img src="/assets/img/terrace2.jpg" alt="Door">
-
-</div>
-</div>
-
-## Landscaping
-
-Evergreen and deciduous trees (pine, ficus, palm), plus an orchard of two dozen fruit trees (grapefruit, mango, lemon, lime, various oranges, etc.). Bushes and decorative plants. Hanging herb garden. Space for vegetable garden. Drainage system with specific plants, grasses; canals on land and roof
-
-![Landscaping](/assets/img/landscaping1.jpg)
-
-
-![Landscaping](/assets/img/landscaping3.jpg)
-
-
-
-
-
-## Warehouses / Storage
+## Warehouses / Storage / Carport
 ---
 
-4 closed, 3 open-air. Walls of concrete blocks, roof of galvanized steel sheets, gardening storage, backup for house water and electricity. Covered patio and locked enclosure.
-
-
-#### Warehouse (Well)
 <ul>
-<li><span>Locked enclosure</span></li>
-<li><span>Pump, regulator, storage</span></li>
-<li><span>Covered patio</span></li>
+<li><span>4 enclosed, 3 open-air. </span></li>
+<li><span>Backup for house utilities, including well to 36.6m / 120ft. </span></li>
 </ul>
 
 ![Outside](/assets/img/warehouse.jpg)
 
-#### Warehouse (Pool control)
-<ul>
-<li><span>Locked enclosure</span></li>
-<li><span>Pump, timer, filter, etc.</span></li>
-</ul>
-
-
 ![Outside](/assets/img/warehouseSide.jpeg)
 
-
-#### Utilities Backup
-
 ![Warehouse](/assets/img/warehouse3.jpeg)
-
-## Carport
 
 ![Outside](/assets/img/car.jpg)
 
 
+<!-- ## Utilities  
+
+Wells:  In warehouse: 36.6m / 120ft.  Outdoors: capped, depth unknown -->
 
 
-## Utilities  
+## Landscaping
 
-Wells:  In warehouse: 36.6m / 120ft.  Outdoors: capped, depth unknown
-
-## Adjacent and Nearby Properties (Observed)
-<dl>
-
-<dt>To north/northeast:</dt>
-<dd>Paved highway between Capira and Cermeño</dd>
-
-<dt>To north and west:</dt>
-<dd>Property of federal government, currently leased to Hogares Crea</dd>
-
-<dt>To south:</dt>
-<dd>Private property (Family of former VP)  </dd>
+<ul>
+<li><span>Fenced grounds. Wraparound terraces inside and out.</span></li>
+<li><span>Evergreen and deciduous trees. Orchard of a dozen trees. </span></li>
+<li><span>Bushes, decorative plants, hanging herb garden.  </span></li>
+<li><span>Land and roof drainage with plants, grasses and canals.   </span></li>
+</ul>
 
 
-</dl>
+![Landscaping](/assets/img/landscaping1.jpg)
+
+![Landscaping](/assets/img/landscaping3.jpg)
 
 
-Dairy and poultry farms. Small factory. Racehorse stables and training. Convent for nuns. “Country estates” for Panamanians, Europeans, North and South Americans
+<div class="row terrace" >
 
-Finca Monticello: Occupied now year-round by owner. Previously occupied occasionally as a “casa de campo”
+<div class="col-md">
+<img src="/assets/img/terrace1.jpg" alt="Door" class="mb-3">
 
+</div>
+<div class="col-md">
+<img src="/assets/img/terrace2.jpg" alt="Door">
 
-
+</div>
+</div>
 
 
 ## Specifications

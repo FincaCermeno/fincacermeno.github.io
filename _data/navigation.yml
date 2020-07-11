@@ -7,15 +7,17 @@ en:
     link: /grounds/
   - name: Info
     link: /info/
-  - name: Contact
-    link: /contact/
+  - name: Buy/Rent
+    link: /buy/
 
 es:
   - name: Inicio
     link: /inicio/
+  - name: Casa
+    link: /casa/
+  - name: Terreno
+    link: /terreno/
   - name: Info
     link: /infos/
-  - name: Recorrido
-    link: /recorrido/
-  - name: Contactos
-    link: /contactos/
+  - name: Compra/Aquiler
+    link: /compra/

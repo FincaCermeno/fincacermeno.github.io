@@ -1,13 +1,13 @@
 ---
-title: Contactos
+title: Compra/Aquiler
 layout: default
 lang: es
-ref: contact
+ref: buy
 ---
 
 
 
-# Contactos
+# Compra/Aquiler
 ---
 
 <dl>
@@ -43,9 +43,9 @@ ref: contact
 *   Diagramas de sistemas de la casa (agua, electricidad)
 *   Instrucciones de functionar y  reparar herramientas, maquinas, sistema de piscina
 
-#### Venta de Arte, Artesanía, Muebles
+<!-- #### Venta de Arte, Artesanía, Muebles
 
-Aviso, por favor: Colección de arte / artesanía y muebles de diseño a venta ahora, separado. Algunas ventas via <a href="https://encuentra24.com" target="_blank">encuentra24.com</a>. Favor de mandar preguntas a <a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a>.
+Aviso, por favor: Colección de arte / artesanía y muebles de diseño a venta ahora, separado. Algunas ventas via <a href="https://encuentra24.com" target="_blank">encuentra24.com</a>. Favor de mandar preguntas a <a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a>. -->
 
 #### Aquilados
 

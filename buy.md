@@ -1,13 +1,13 @@
 ---
-title: Contact
+title: Buy/Rent
 layout: default
 lang: en
-ref: contact
+ref: buy
 ---
 
 
 
-## Contact
+## Buy/Rent
 ---
 
 <dl>
@@ -30,7 +30,7 @@ ref: contact
 <li><span>Finca Monticello is 50 (estimated) driving minutes from Panama City, halfway between the resort town of Coronado and the provincial capital of La Chorrera</span></li>
 <li><span>4.4 km / 2.7 mi from the Panamerican Highway in Capira, on the same side and just past the local landmark of Hogares Crea</span></li>
 </ul>
-  
+
 
 
 

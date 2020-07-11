@@ -248,7 +248,16 @@ nav img {
 
 @media (min-width: 768px) {
   .terrace {
-    text-align: center;
+    max-width: 85%;
+    margin-left: 0;
+    // text-align: center;
+  }
+  .terrace div {
+    padding-left:0;
+    padding-right:0;
+  }
+  .terrace div:nth-child(2) {
+    text-align: right;
   }
 
 }
