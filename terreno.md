@@ -6,21 +6,6 @@ ref: grounds
 ---
 
 
-## Property Details
-
-<dl>
-
-<dt>Lot Size (Recorded)</dt>
-<dd>5,482 m<sup>2</sup> / 59,007 ft<sup>2</sup> / 1.35 acres / 0.55 hec.</dd>
-
-<dt>Lot Size (Fenced)</dt>
-<dd>5,640 m<sup>2</sup> / 60,708 ft<sup>2</sup> / 1.39 acres / .56 hec.</dd>
-
-</dl>
-
-Location: 8°44'33.73''N 79°50'58.37''W  
-Altitud: 205m / 671p
-
 
 ## Piscina / Bohío
 ---
@@ -57,7 +42,7 @@ Altitud: 205m / 671p
 Wells:  In warehouse: 36.6m / 120ft.  Outdoors: capped, depth unknown -->
 
 
-## Specifications
+## Especificaciones de Terreno
 
 | Room | Area | Dimensions |
 |-|-|-|

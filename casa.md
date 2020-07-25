@@ -122,35 +122,6 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 
 
 
-## Sistemas de Utilidad  
-
-
-<dl>
-
-<dt>Electricidad:</dt>
-<dd>Sistema actualizado, alimentado en parte con un generador de emergencia, calentadores </dd>
-
-<dt>Propano:</dt>
-<dd>Generador, secadora, estufa, calentadores  </dd>
-
-<dt>Agua:</dt>
-<dd>Medido, canalizado a solo tres fincas en el vecindario</dd>
-
-<dt>Pozos:</dt>
-<dd>Primero a 36,6 m / 120 p. Segundo tapado</dd>
-
-<dt>Enfriamiento:</dt>
-<dd>Ventiladores de techo, brisas durante todo el año</dd>
-
-<dt>Internet / WiFi / Linea Fija / Cable:</dt>
-<dd>Principales proveedores</dd>
-
-
-</dl>
-
-
-
-
 
 ## Especificaciones de casa
 

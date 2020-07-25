@@ -34,7 +34,7 @@ Single / extended-family dwelling. Or group home. Or small business office / hea
 
 Or rental for conferences, holidays, birthdays, weddings, anniversaries.
 
-<span style="color: #159957;"> Estate now available for rent, in part or whole, until sale completed. See <span>[Buy/Rent](./contact.md).
+<span style="color: #159957;"> Estate now available for rent, in part or whole, until sale completed. See <span>[Buy/Rent](./buy.md).
 
 
 ![Dog](/assets/img/dog.jpg)
@@ -136,34 +136,6 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 <li><span>Metal Dutch doors to upper-level kitchen and laundry, metal door to lower-level mudroom.</span></li>
 <li><span>Recessed lighting, multiple outlets throughout.</span></li>
 </ul>
-
-
-
-## Utilities
-
-<dl>
-
-<dt>Electricity:</dt>
-<dd>System upgraded, grounded inside and out. Electrical heaters for two bathrooms</dd>
-
-<dt>Propane:</dt>
-<dd>Tanks for generator, dryer, stove, water heaters in kitchen and guest bathrooms</dd>
-
-<dt>Water:</dt>
-<dd>Metered, unfiltered, piped to only three estates in neighborhood</dd>
-
-<dt>Wells:</dt>
-<dd>36.6m /120ft. Second capped, depth unknown</dd>
-
-<dt>Cooling:</dt>
-<dd>Ceiling fans, year-round breezes</dd>
-
-<dt>Internet / WiFi / Landline</dt>
-<dd>Major service providers available</dd>
-
-
-</dl>
-
 
 
 

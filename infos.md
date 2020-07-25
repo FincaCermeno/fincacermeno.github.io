@@ -5,109 +5,75 @@ lang: es
 ref: info
 ---
 
-# Información General
----
-Una finca excepcional---una casa amarosa de dos niveles, con piscina profunda y bohio---en un etorno excepcional, en lo alto de una colina calmada por brisas frescas. Una  “casa de campo” tradicional del siglo 20 adaptada inteligentemente al siglo 21.
+<div class="row mb-3 mt-5">
+
+<div class="col-sm" markdown="1">
+
+## Property Details
 
 <dl>
-<dt>Propiedad</dt>
-<dd>Finca Monticello</dd>
 
-<dt>Propietaro</dt>
-<dd>Finca Monticello Holdings, Inc.</dd>
-
-<dt>Ubicación</dt>
-<dd>INSERT</dd>
-
-<dt>Corregimiento</dt>
-<dd>Cermeño</dd>
-
-<dt>Distrito</dt>
-<dd>Capira</dd>
-
-<dt>Provincia</dt>
-<dd>Panamá (Since 2015, Panamá West)</dd>
-
-<dt>Tamaño de lote (inscritas)</dt>
+<dt>Lote (registrado):</dt>
 <dd>5,482 m<sup>2</sup> / 59,007 ft<sup>2</sup> / 1.35 acres / 0.55 hec.</dd>
 
-<dt>Tamaño de lote (cercado)</dt>
+<dt>Lote (cercado):</dt>
 <dd>5,640 m<sup>2</sup> / 60,708 ft<sup>2</sup> / 1.39 acres / .56 hec.</dd>
 
-<dt>Ahora:</dt>
-<dd>Ocupado por el propietario durante todo al año </dd>
+<dt>Casa:</dt>
+<dd>333 m<sup>2</sup> / 3,590 p<sup>2</sup>  </dd>
 
-<dt>Antes:</dt>
-<dd>Ocupado ocasionalmente como una “casa de campo”</dd>
-
-<dt>Usos potenciales</dt>
-<dd>Vivienda unifamiliar o extendida; alquiler de habitaciones, de piscina y bohío, de la sala para conferencias, cumpleaños, bodas, aniversarios</dd>
-</dl>
-
-##### Indicaciones de viaje:
-
-*   Finca Monticello está 50 (estimada) minutos de automovíl de la Cuidad de Panamá, a medio camino entre la ciudad coastal de Coronado y la capital provincia de La Chorrera
-*   4.4 km / 2.7 mi de la Carretera Panamericana en Capira en mismo lado y justo déspues de marca visible local de Hogares Crea
-
-
-Colindancias (inscritas): “Norte con la finca San Isidro po el este y noreste con la carretera de Cermeno a Capira sur con la propieda de Vianor Subia y por el oeste con la finca San Isidro”
-
-Colindancias hoy (observadas):
-Al este/noreste: Carretera principal entre Capira y Cermeño
-Al norte y oeste: Propiedad del gobierno federal  
-Al sur: Propiedad privada (Familia de VP Jamie Ford)  
-
-
-## La Vecinidad
-
-<dl>
-
-<dt>A Capira:</dt>
-<dd>4.4 km / 2.7 mi a mercado de granjeros, mercado de abastos, tiendas variadas, ferreterias, transporte, clínicas</dd>
-
-<dt>A Cermeño (central):</dt>
-<dd>1.6 km / 1 mi a escuelas, parque, iglesia, campos de juego</dd>
-
-<dt>A La Chorrera:</dt>
-<dd>16 km / 10 mi a centros de ventas, hospitales, veterinarios, etc.</dd>
-
-<dt>A Coronado:</dt>
-<dd>40 km / 25 mi a playas, spas, restaurantes, servicios de médicos, etc.</dd>
 
 </dl>
 
-A playas para caminar (Nueva Gorgona) y pescar (Monte Oscuro) están (est) 23 km / 14 mi en direcciones opuestas.
 
-Fácil acceso por transporte público al Metro y la Ciudad de Panamá cada vez mas sofisticada.
+</div>
+<div class="col-sm text-center my-auto">
+<img src="/assets/img/info3.jpg" alt="Door2">
+</div>
+</div>
+
+#### Historia
+Terreno para Monticello (“pequeña montaña”) comprado en 1965. Casa original probablemente construida en 1969. El tamaño se duplicó con la expansión.
+
+Anteriormente ocupado ocasionalmente como una “casa de campo.” Ahora ocupado durante todo el año por su quinto propietario.
+
+Ultima Entrada: 14 de enero de 2015
 
 
+## Sistemas de Utilidad
 
-## Servicios
 
 <dl>
 
 <dt>Electricidad:</dt>
-<dd>Naturgy. Sistema electrico actualizado, conectado a tierra . Cuatro cajas de interruptores. </dd>
+<dd>Sistema actualizado, conectado a tierra por dentro y por fuera, alimentado en parte con un generador de emergencia, cuando sea necesario. Calentadores eléctricos para dos baños</dd>
 
 <dt>Propano:</dt>
-<dd>Tanques de Tropigas para generador, secadora, estufa, calentadores (cocina, baño)</dd>
+<dd>Generador, secadora, estufa, calentadores de agua para baños de visitas y huéspedes </dd>
 
 <dt>Agua:</dt>
-<dd>Tarifa medida, unfiltered</dd>
+<dd>Medido, canalizado a solo tres fincas en el vecindario</dd>
 
 <dt>Pozos:</dt>
-<dd>Segundo pozo tapado, profundidad desconocida</dd>
+<dd>Primero: 36,6 m / 120 p. Segundo: Tapado, profundidad desconocida</dd>
 
 <dt>Enfriamiento:</dt>
-<dd>Ventiladores de techo. Brisas refrescas (700m / 2,300ft altitud).</dd>
+<dd>Ventiladores de techo, brisas durante todo el año</dd>
 
-<dt>Calefaccion:</dt>
-<dd>Calentadores de agua, alimentados por propano y electricidad</dd>
-
-<dt>Internet / WiFi / Landline</dt>
-<dd>Accesible por compañías principales</dd>
-
-<dt>Seguridad</dt>
-<dd>Solo pregunta</dd>
+<dt>Internet / WiFi / Linea Fija / Cable: </dt>
+<dd>Principales proveedores de servicios disponible  </dd>
 
 </dl>
+
+![Volcano](/assets/img/info1.jpg)
+
+## El Vecinario
+
+<ul>
+<li><span>Granjas lecheras y avícolas. Pequeña fábrica. Establos, entrenamiento para caballos de carreras</span></li>
+<li><span>“Fincas” para panameños, europeos, norteamericanos y sudamericanos. Convento para monjas</span></li>
+<li><span>Iglesia, escuelas primarias / intermedias, parque, instalaciones deportivas </span></li>
+</ul>
+
+
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/infos.pdf" target="_blank">Descargar info. de propiedad</a></p>

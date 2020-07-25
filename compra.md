@@ -7,34 +7,61 @@ ref: buy
 
 
 
-# Compra/Aquiler
----
+## Información de Compra y Alquiler  
+#### Contactos para comprar o alquilar antes de la venta   
+
 
 <dl>
 
-<dt>Correo</dt>
+<dt>Correo Electrónico</dt>
 <dd><a href="mailto:fincacermeno@gmail.com">fincacermeno@gmail.com</a></dd>
 
 <dt>WhatsApp</dt>
-<dd>Texto o audio a <a href="https://api.whatsapp.com/send?phone=+50763451910">6345-1910</a>. Ningún llamadas, por favor.</dd>
-
-<dt>Codigo de ubicación</dt>
-<dd>8204</dd>
-
-<dt>Público Folio Real </dt>
-<dd>37621 (F)</dd>
-
-<dt>Entrada</dt>
-<dd>14 Enero 2015</dd>
+<dd>Texto o audio a <a href="https://api.whatsapp.com/send?phone=+50763451910">507-6345-1910</a>. (Ocho dígitos para celulares en Panamá)
+No llamadas directas, por favor. Mensajes de texto o grabados en español o ingles, gracias. </dd>
 
 </dl>
 
-#### Detalles
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1219.4921548574143!2d-79.8495633!3d8.7434212!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNDQnMzMuNyJOIDc5wrA1MCc1OC40Ilc!5e1!3m2!1sen!2sus!4v1591891626735!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-* Tarifa de buscador o comisión inmobiliaria
-* La companía (Monticello Holdings, Inc.) està también para venta
-* Abogado disponible, experienciado con transferencias de propiedades, como representante del comprador, vendidor o ambos
-* Venta con casa: estufa de gas/horno, refrigerador, lavadora, secadora, algunas cortinas y verticales. Disponible semi-amuelado o sin muebles.
+## Detalles de Alquiler  
+
+Precios y horarios disponibles a través de “Contactos”  en la página inicial de www.fincacermeno.com en el red
+
+Un aviso mínimo de una semana de anticipación para reservar la piscine, y un miminio de tres dias para cancelar la reservación  
+
+
+
+## Detalles de Compra
+
+<ul>
+<li><span>Tarifa o comisión del buscador negociable</span></li>
+<li><span>Trato directo con el propietario preferido </span></li>
+<li><span>Empresa (Monticello Holdings, Inc.) también en venta  </span></li>
+<li><span>Abogado disponible, con experiencia en transferencias de bienes raíces, representando al comprador, vendedor o ambos</span></li>
+<li><span>Se vende con estufa / horno a gas, refrigerador, lavadora, secadora, algunas cortinas / persianas </span></li>
+<li><span>Disponible amueblado o sin muebles </span></li>
+<li>
+  <span>Documentos disponibles para compradores calificados </span>
+  <ul>
+    <li><span>Valoración reciente de ICAPSA </span></li>
+    <li><span>Plano de planta (dibujado informalmente) </span></li>
+
+  </ul>
+</li>
+<li>
+  <span>Documentos disponibles para el comprador </span>
+  <ul>
+    <li><span>Lista de expertos locales, operarios, limpiadores </span></li>
+    <li><span>Diagramas operativos, instrucciones para sistemas clave (sistemas de agua / electricidad / piscina) </span></li>
+    <li><span>Instrucciones para operar y reparar herramientas, máquinas (si se transportan con propiedad)  </span></li>
+  </ul>
+</li>
+
+
+</ul>
+
+
 
 #### Documentos
 
@@ -54,3 +81,5 @@ Piscina o finca entera disponible para alquiler.
 #### Descargo de responsibilidad
 
 La información es confiable pero no está garantizada. La distancia y las medidas son aproximadas y están sujetas a corrección.
+
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/compra.pdf" target="_blank">Descargar detalles de compra / aquiler</a></p>

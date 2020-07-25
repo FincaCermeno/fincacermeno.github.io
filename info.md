@@ -7,28 +7,7 @@ ref: info
 
 
 
-## Purchase Information
 
-<ul>
-<li><span>Negotiable finders’ fee or commission</span></li>
-<li><span>Company (Monticello Holdings, Inc.) also for sale</span></li>
-<li><span>Direct dealing with owner preferred</span></li>
-<li><span>Lawyer available, experienced with real estate transfers, representing buyer, seller or both</span></li>
-<li><span>Sold with house: gas stove/oven, refrigerator, washer, dryer, some curtains / shades</span></li>
-<li><span>Available semi-furnished or without furniture</span></li>
-<li>
-  <span>Documents available</span>
-  <ul>
-    <li><span>Recent appraisal for qualified buyers</span></li>
-    <li><span>List of local experts, handymen, cleaners</span></li>
-    <li><span>Operational diagrams, instructions for utilities systems (water/electricity/pool systems)</span></li>
-    <li><span>Instructions to operate and repair tools, machines (if conveyed with property)</span></li>
-
-  </ul>
-</li>
-
-
-</ul>
 
 
 <!--
@@ -128,30 +107,11 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 
 ## The Neighborhood
 
-<dl>
-
-<dt>To Capira:</dt>
-<dd>4.4 km / 2.7 mi to farmers’ market, groceries, dry goods, hardware, transport, clinics</dd>
-
-<dt>To Cermeño (Central):</dt>
-<dd>1.6 km / 1 mi to schools, park, church, sports fields</dd>
-
-<dt>To La Chorrera:</dt>
-<dd>16 km / 10 mi to malls, hospitals, veterinarians, etc.</dd>
-
-<dt>To Coronado:</dt>
-<dd>40 km / 25 mi to beaches, resorts, restaurants, medical services</dd>
-
-<dt>To Beaches:</dt>
-<dd>For walking, swimming (Gorgona Nueva); for fishing (Monte Oscuro) est. 23km / 14mi.</dd>
-
-<dt>To Panama City:</dt>
-<dd>Metro, national buses, shopping mall at Albrook, est. driving/bus time, 1 hr.</dd>
-
-<dt>Tocumen International Airport:</dt>
-<dd>driving time, 1-1.5 hrs</dd>
-
-</dl>
+<ul>
+<li><span>Dairy and poultry farms. Small factory. Stables, training for racehorses.</span></li>
+<li><span>“Country estates” for Panamanians, Europeans, North and South Americans. Convent.</span></li>
+<li><span>Church, primary/middle schools, park, sport venues.</span></li>
+</ul>
 
 
-<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/{{ page.lang }}.pdf" target="_blank">Download All Property Details</a></p>
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/info.pdf" target="_blank">Download Property Info.</a></p>
