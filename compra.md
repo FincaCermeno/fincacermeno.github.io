@@ -24,9 +24,15 @@ No llamadas directas, por favor. Mensajes de texto o grabados en español o ingl
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d1219.4921548574143!2d-79.8495633!3d8.7434212!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zOMKwNDQnMzMuNyJOIDc5wrA1MCc1OC40Ilc!5e1!3m2!1sen!2sus!4v1591891626735!5m2!1sen!2sus" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-## Detalles de Alquiler  
+#### Ubicación
 
-Precios y horarios disponibles a través de “Contactos”  en la página inicial de www.fincacermeno.com en el red
+<ul>
+  <li><span>A medio camino entre la ciudad turística de Coronado y la capital provincial de La Chorrera</span></li>
+  <li><span>4.4 km / 2.7 mi de la Carretera Panamericana en Capira. Adyacente al hito local de Hogares Crea.</span></li>
+</ul>
+
+
+## Detalles de Alquiler  
 
 Un aviso mínimo de una semana de anticipación para reservar la piscine, y un miminio de tres dias para cancelar la reservación  
 

@@ -9,7 +9,7 @@ ref: info
 
 <div class="col-sm" markdown="1">
 
-## Property Details
+## Detalles de la Propiedad
 
 <dl>
 

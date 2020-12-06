@@ -33,8 +33,6 @@ ref: buy
 
 ## Rental Details
 
-Prices and times available via “Buy / Rent” on home page of website fincacermeno.com
-
 Minimum one-week notice to reserve pool and three-day notice to cancel reservation
 
 Deposit of 25% required if party unknown to property manager
