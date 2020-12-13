@@ -23,7 +23,6 @@
         <!-- Bootstrap core CSS -->
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
-        <link id="favicon" rel="shortcut icon" href="{{'img/ico' | relative_url }}">
         <link href="/assets/css/styles.css" rel="stylesheet">
 
         <script src="https://kit.fontawesome.com/11bff94181.js"></script>
@@ -62,7 +61,7 @@
 
         <!-- FOOTER -->
         <footer class="container site-footer">
-            <p><b>Disclaimer:</b> Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction.</p>
+            <p> {% if page.lang=="en" %}<b>Disclaimer:</b> Information is reliable but not guaranteed. Distances and measurements are approximate and subject to correction. {% else %} <b>Descargo de responsabilidad:</b> La información es confiable pero no está garantizada. Las distancias y medidas son aproximadas y están sujetas a correción.{% endif %}</p>
             <p class="float-right"><a href="#">{% if page.lang=="en" %} Back to top {% else %} Regresar al principio {% endif %}</a></p>
             <p><i class="far fa-copyright"></i> <script>document.write(new Date().getFullYear())</script> Monticello Holdings, Inc. </p>
         </footer>

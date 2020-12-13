@@ -17,9 +17,9 @@ ref: grounds
 <li><span>Nearby barbecue pit, dressing room, outdoor shower,  half-bath, covered patio, 37 cement steps</span></li>
 </ul>
 
-![Pool](/assets/img/pool1.jpg){:style="width: 85%;"}
+![Pool]({% link /assets/img/pool1.jpg %}){:style="width: 85%;"}
 
-![Pool](/assets/img/pool2.jpg){:style="width: 85%;"}
+![Pool]({% link /assets/img/pool2.jpg %}){:style="width: 85%;"}
 
 
 ## Warehouses / Storage / Carport
@@ -30,13 +30,13 @@ ref: grounds
 <li><span>Backup for house utilities, including well to 36.6m / 120ft. </span></li>
 </ul>
 
-![Outside](/assets/img/warehouse.jpg)
+![Outside]({% link /assets/img/warehouse.jpg %})
 
-![Outside](/assets/img/warehouseSide.jpeg)
+![Outside]({% link /assets/img/warehouseSide.jpeg %})
 
-![Warehouse](/assets/img/warehouse3.jpeg)
+![Warehouse]({% link /assets/img/warehouse3.jpeg %})
 
-![Outside](/assets/img/car.jpg)
+![Outside]({% link /assets/img/car.jpg %})
 
 
 <!-- ## Utilities  
@@ -54,19 +54,19 @@ Wells:  In warehouse: 36.6m / 120ft.  Outdoors: capped, depth unknown -->
 </ul>
 
 
-![Landscaping](/assets/img/landscaping1.jpg)
+![Landscaping]({% link /assets/img/landscaping1.jpg %})
 
-![Landscaping](/assets/img/landscaping3.jpg)
+![Landscaping]({% link /assets/img/landscaping3.jpg %})
 
 
 <div class="row terrace" >
 
 <div class="col-md">
-<img src="/assets/img/terrace1.jpg" alt="Door" class="mb-3">
+<img src="{% link /assets/img/terrace1.jpg %}" alt="Door" class="mb-3">
 
 </div>
 <div class="col-md">
-<img src="/assets/img/terrace2.jpg" alt="Door">
+<img src="{% link /assets/img/terrace2.jpg %}" alt="Door">
 
 </div>
 </div>

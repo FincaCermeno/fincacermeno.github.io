@@ -62,4 +62,4 @@ Deposit of 25% required if party unknown to property manager
 
 </ul>
 
-<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/buy.pdf" target="_blank">Download Buy / Rent Details.</a></p>
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="{% link /assets/img/buy.pdf %}" target="_blank">Download Buy / Rent Details.</a></p>

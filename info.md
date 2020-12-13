@@ -73,7 +73,7 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 
 </div>
 <div class="col-sm text-center my-auto">
-<img src="/assets/img/info3.jpg" alt="Door2">
+<img src="{% link /assets/img/info3.jpg %}" alt="Door2">
 </div>
 </div>
 
@@ -102,7 +102,7 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 
 </dl>
 
-![Volcano](/assets/img/info1.jpg)
+![Volcano]({% link /assets/img/info1.jpg %})
 
 
 ## The Neighborhood
@@ -114,4 +114,4 @@ Artwork, crafts and designer furniture displayed in many photos are for sale sep
 </ul>
 
 
-<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/info.pdf" target="_blank">Download Property Info.</a></p>
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="{% link /assets/img/info.pdf %}" target="_blank">Download Property Info.</a></p>

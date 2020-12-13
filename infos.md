@@ -28,7 +28,7 @@ ref: info
 
 </div>
 <div class="col-sm text-center my-auto">
-<img src="/assets/img/info3.jpg" alt="Door2">
+<img src="{% link /assets/img/info3.jpg %}" alt="Door2">
 </div>
 </div>
 
@@ -65,7 +65,7 @@ Ultima Entrada: 14 de enero de 2015
 
 </dl>
 
-![Volcano](/assets/img/info1.jpg)
+![Volcano]({% link /assets/img/info1.jpg %})
 
 ## El Vecinario
 

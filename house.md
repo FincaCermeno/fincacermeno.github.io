@@ -34,10 +34,10 @@ Single / extended-family dwelling. Or group home. Or small business office / hea
 
 Or rental for conferences, holidays, birthdays, weddings, anniversaries.
 
-<span style="color: #159957;"> Estate now available for rent, in part or whole, until sale completed. See <span>[Buy/Rent](./buy.md).
+<span style="color: #159957;"> Estate now available for rent, in part or whole, until sale completed. See <span>[Buy/Rent]({% link buy.md %}).
 
 
-![Dog](/assets/img/dog.jpg)
+![Dog]({% link /assets/img/dog.jpg %})
 
 
 
@@ -62,9 +62,9 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 </ul>
 
 
-![Living Room](/assets/img/living2.jpg)
+![Living Room]({% link /assets/img/living2.jpg %})
 
-![Living Room](/assets/img/living1.jpg)
+![Living Room]({% link /assets/img/living1.jpg %})
 
 
 ## Kitchen Complex
@@ -77,11 +77,11 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 </ul>
 
 
-![Kitchen](/assets/img/kitchen2.jpg)
+![Kitchen]({% link /assets/img/kitchen2.jpg %})
 
-![Kitchen](/assets/img/kitchen3.jpg)
+![Kitchen]({% link /assets/img/kitchen3.jpg %})
 
-![Kitchen](/assets/img/kitchenbath.jpg)
+![Kitchen]({% link /assets/img/kitchenbath.jpg %})
 
 
 
@@ -98,30 +98,30 @@ For more photos, details or prices, email <a href="mailto:fincacermeno@gmail.com
 </ul>
 
 
-![Bedroom](/assets/img/bedroom1.jpg)
+![Bedroom]({% link /assets/img/bedroom1.jpg %})
 
-![Bathroom](/assets/img/bathroom1.jpg)
+![Bathroom]({% link /assets/img/bathroom1.jpg %})
 
 #### Bedroom 2 Paired with master, with full bath attached
 
 
-![Bedroom](/assets/img/bedroom2.jpg)
+![Bedroom]({% link /assets/img/bedroom2.jpg %})
 
 #### Bedrooms (Offices) 3,4,5
 
-![Bedroom](/assets/img/bedroom3.jpg)
+![Bedroom]({% link /assets/img/bedroom3.jpg %})
 
 
 
-![Bedroom](/assets/img/bedroom4.jpg)
+![Bedroom]({% link /assets/img/bedroom4.jpg %})
 
 
 
-![Bedroom](/assets/img/bedroom5.jpg)
+![Bedroom]({% link /assets/img/bedroom5.jpg %})
 
 #### Guest Bathroom
 
-![Bathroom](/assets/img/bathroom2.jpg)
+![Bathroom]({% link /assets/img/bathroom2.jpg %})
 
 
 

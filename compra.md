@@ -88,4 +88,4 @@ Piscina o finca entera disponible para alquiler.
 
 La información es confiable pero no está garantizada. La distancia y las medidas son aproximadas y están sujetas a corrección.
 
-<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="/assets/img/compra.pdf" target="_blank">Descargar detalles de compra / aquiler</a></p>
+<p class="text-center"><a class="btn btn-lg btn-light mt-5 mx-auto" href="{% link /assets/img/compra.pdf %}" target="_blank">Descargar detalles de compra / aquiler</a></p>
